@@ -1,0 +1,1505 @@
+﻿Log file open, 02/17/20 11:43:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FishBaloon
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.121514
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Engine.ini]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Engine.ini]
+[2020.02.17-10.43.14:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Engine.ini]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Engine.ini]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.17-10.43.14:629][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.17-10.43.14:630][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.17-10.43.14:630][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.17-10.43.14:630][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.17-10.43.14:630][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.17-10.43.14:630][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.17-10.43.14:630][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.17-10.43.14:630][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.17-10.43.14:630][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.17-10.43.14:630][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.17-10.43.14:630][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.17-10.43.14:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Engine.ini]
+[2020.02.17-10.43.14:630][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Engine.ini]
+[2020.02.17-10.43.14:633][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.17-10.43.14:633][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.17-10.43.14:634][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.17-10.43.14:635][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.17-10.43.14:635][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.17-10.43.14:638][  0]LogHAL: Display: Platform has ~ 16 GB [16952545280 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.17-10.43.14:638][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.17-10.43.14:638][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.17-10.43.14:638][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Scalability.ini]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.17-10.43.14:639][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.17-10.43.14:640][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.17-10.43.14:640][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.17-10.43.14:640][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Config/Windows/Engine.ini]
+[2020.02.17-10.43.14:640][  0]LogInit: Computer: SC-UIL-PR-02
+[2020.02.17-10.43.14:640][  0]LogInit: User: uil
+[2020.02.17-10.43.14:640][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.17-10.43.14:640][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2020.02.17-10.43.14:640][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.02.17-10.43.14:640][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.17-10.43.14:640][  0]LogMemory: Process Physical Memory: 103.72 MB used, 103.72 MB peak
+[2020.02.17-10.43.14:640][  0]LogMemory: Process Virtual Memory: 100.72 MB used, 100.72 MB peak
+[2020.02.17-10.43.14:640][  0]LogMemory: Physical Memory: 8182.04 MB used,  7985.17 MB free, 16167.21 MB total
+[2020.02.17-10.43.14:640][  0]LogMemory: Virtual Memory: 5160.72 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.02.17-10.43.14:643][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.17-10.43.14:668][  0]LogInit: Using OS detected language (sl-SI).
+[2020.02.17-10.43.14:668][  0]LogInit: Using OS detected locale (sl-SI).
+[2020.02.17-10.43.14:669][  0]LogTextLocalizationManager: No localization for 'sl-SI' exists, so 'en' will be used for the language.
+[2020.02.17-10.43.14:899][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.17-10.43.14:946][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.17-10.43.14:946][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.17-10.43.15:168][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.17-10.43.15:168][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.17-10.43.15:168][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.17-10.43.15:168][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.17-10.43.15:228][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M1200' (Feature Level 11_0)
+[2020.02.17-10.43.15:228][  0]LogD3D11RHI:       4062/0/8083 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.17-10.43.15:257][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.02.17-10.43.15:257][  0]LogD3D11RHI:       128/0/8083 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.17-10.43.15:259][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.17-10.43.15:259][  0]LogD3D11RHI:       0/0/8083 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.17-10.43.15:259][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.17-10.43.15:302][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.17-10.43.15:302][  0]LogD3D11RHI:     GPU DeviceId: 0x13b6 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.17-10.43.15:302][  0]LogWindows: EnumDisplayDevices:
+[2020.02.17-10.43.15:302][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.02.17-10.43.15:303][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.17-10.43.15:303][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.17-10.43.15:303][  0]LogWindows:    3. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2020.02.17-10.43.15:303][  0]LogWindows:    4. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2020.02.17-10.43.15:304][  0]LogWindows:    5. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2020.02.17-10.43.15:304][  0]LogWindows:    6. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2020.02.17-10.43.15:304][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.02.17-10.43.15:304][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M1200
+[2020.02.17-10.43.15:304][  0]LogD3D11RHI:   Driver Version: 385.73 (internal:22.21.13.8573, unified:385.73)
+[2020.02.17-10.43.15:304][  0]LogD3D11RHI:      Driver Date: 9-25-2017
+[2020.02.17-10.43.15:304][  0]LogRHI: Texture pool is 2843 MB (70% of 4062 MB)
+[2020.02.17-10.43.15:340][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.02.17-10.43.15:340][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.17-10.43.15:353][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.17-10.43.15:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.17-10.43.15:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.17-10.43.15:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.17-10.43.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.17-10.43.15:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.17-10.43.15:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.17-10.43.15:829][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.17-10.43.15:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.17-10.43.15:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.17-10.43.15:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.17-10.43.15:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.17-10.43.15:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.17-10.43.15:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.17-10.43.15:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.17-10.43.15:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.17-10.43.15:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.17-10.43.15:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.17-10.43.15:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.17-10.43.15:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.17-10.43.15:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.17-10.43.15:950][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.17-10.43.15:953][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.17-10.43.15:983][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Intermediate/Shaders/WorkingDirectory/19392/).
+[2020.02.17-10.43.15:983][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/uil/AppData/Local/Temp/UnrealShaderWorkingDir/F269AA264349B9D480A2869D76FCE7CB/'.
+[2020.02.17-10.43.15:984][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.17-10.43.15:984][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.17-10.43.15:984][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.17-10.43.16:872][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.17-10.43.16:935][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/uil/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.17-10.43.16:935][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/uil/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.17-10.43.16:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.17-10.43.16:935][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.17-10.43.16:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.17-10.43.16:935][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.17-10.43.16:948][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.17-10.43.16:948][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.17-10.43.16:948][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.17-10.43.16:950][  0]LogDerivedDataCache: Using Local data cache path C:/Users/uil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.17-10.43.16:950][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.17-10.43.16:950][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.17-10.43.16:980][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.17-10.43.16:983][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.17-10.43.16:983][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.17-10.43.17:045][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2020.02.17-10.43.17:391][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.17-10.43.17:587][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.17-10.43.17:587][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.17-10.43.17:587][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.17-10.43.17:587][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.17-10.43.17:587][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.17-10.43.17:602][  0]LogNetVersion: FishBaloon 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 472034395)
+[2020.02.17-10.43.18:911][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.049754 seconds
+[2020.02.17-10.43.18:920][  0]LogUObjectArray: 46751 objects as part of root set at end of initial load.
+[2020.02.17-10.43.18:920][  0]LogUObjectAllocator: 8137384 out of 0 bytes used by permanent object pool.
+[2020.02.17-10.43.18:920][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.17-10.43.19:413][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.17-10.43.19:460][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.17-10.43.19:519][  0]SourceControl: Source control is disabled
+[2020.02.17-10.43.19:519][  0]SourceControl: Source control is disabled
+[2020.02.17-10.43.19:520][  0]SourceControl: Source control is disabled
+[2020.02.17-10.43.19:522][  0]SourceControl: Source control is disabled
+[2020.02.17-10.43.19:523][  0]SourceControl: Source control is disabled
+[2020.02.17-10.43.19:615][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.17-10.43.19:626][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.17-10.43.19:626][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.17-10.43.19:733][  0]LogOcInput: OculusInput pre-init called
+[2020.02.17-10.43.19:741][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.17-10.43.19:741][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.17-10.43.19:822][  0]LogEngine: Initializing Engine...
+[2020.02.17-10.43.19:824][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.17-10.43.19:825][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.17-10.43.20:299][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.17-10.43.20:307][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.17-10.43.20:335][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.17-10.43.20:335][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.17-10.43.20:335][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.17-10.43.20:335][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.17-10.43.20:335][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.17-10.43.20:335][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.17-10.43.20:335][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.17-10.43.20:335][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.17-10.43.20:335][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.17-10.43.20:335][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.17-10.43.20:353][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.17-10.43.20:353][  0]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.17-10.43.20:353][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.17-10.43.20:353][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.17-10.43.20:353][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.17-10.43.20:353][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.17-10.43.20:353][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.17-10.43.20:353][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.17-10.43.20:353][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.17-10.43.20:377][  0]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.17-10.43.20:384][  0]LogInit: FAudioDevice initialized.
+[2020.02.17-10.43.20:385][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.17-10.43.20:443][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/uil/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.17-10.43.20:449][  0]LogInit: Texture streaming: Enabled
+[2020.02.17-10.43.20:460][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.17-10.43.20:460][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.17-10.43.20:462][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.17-10.43.20:486][  0]LogInit: Transaction tracking system initialized
+[2020.02.17-10.43.20:499][  0]BlueprintLog: New page: Editor Load
+[2020.02.17-10.43.20:638][  0]LocalizationService: Localization service is disabled
+[2020.02.17-10.43.21:094][  0]LogFileCache: Scanning file cache for directory 'C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/' took 0.00s
+[2020.02.17-10.43.21:094][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.17-10.43.21:094][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.17-10.43.21:980][  0]SourceControl: Source control is disabled
+[2020.02.17-10.43.21:980][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.17-10.43.21:981][  0]LightingResults: New page: Lighting Build
+[2020.02.17-10.43.21:981][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.17-10.43.21:981][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.43.21:982][  0]MapCheck: New page: Map Check
+[2020.02.17-10.43.21:982][  0]LightingResults: New page: Lighting Build
+[2020.02.17-10.43.22:014][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.02.17-10.43.22:118][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.17-10.43.22:122][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.17-10.43.22:156][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.02.17-10.43.22:156][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.17-10.43.22:156][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,168ms to complete.
+[2020.02.17-10.43.22:156][  0]LogFileHelpers: Loading map 'Template_Default' took 0.176
+[2020.02.17-10.43.22:353][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.43.22:361][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.43.22:370][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.43.22:378][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.43.22:394][  0]LogCollectionManager: Loaded 0 collections in 0.002450 seconds
+[2020.02.17-10.43.22:426][  0]LogFileCache: Scanning file cache for directory 'C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Collections/' took 0.00s
+[2020.02.17-10.43.22:426][  0]LogFileCache: Scanning file cache for directory 'C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Developers/uil/Collections/' took 0.00s
+[2020.02.17-10.43.22:426][  0]LogFileCache: Scanning file cache for directory 'C:/polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Collections/' took 0.00s
+[2020.02.17-10.43.22:426][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 3015 classes and 717 folders.
+[2020.02.17-10.43.22:432][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.17-10.43.22:510][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.17-10.43.22:522][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.02.17-10.43.22:714][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.17-10.43.22:717][  0]LogSlate: Took 0.000534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.17-10.43.22:732][  0]LogSlate: Took 0.008408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.17-10.43.22:877][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.02.17-10.43.23:021][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.17-10.43.23:021][  0]LogLoad: (Engine Initialization) Total time: 10.67 seconds
+[2020.02.17-10.43.23:021][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.17-10.43.23:040][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.17-10.43.23:071][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.17-10.43.27:748][270]LogAssetRegistry: Asset discovery search completed in 10.7031 seconds
+[2020.02.17-10.43.27:754][270]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2020.02.17-10.43.36:670][789]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.17-10.43.50:283][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.17-10.43.51:488][592]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.17-10.43.51:507][592]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.17-10.43.51:597][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.02.17-10.43.59:820][ 71]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Baselevel.Baselevel
+[2020.02.17-10.43.59:852][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.17-10.44.02:293][ 71]LogSlate: Window 'Save Content' being destroyed
+[2020.02.17-10.44.02:310][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Baselevel" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Level/Baselevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.17-10.44.02:353][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.02.17-10.44.02:363][ 71]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Baselevel2D99101F4D62CF537E9CE6A87545A110.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Level/Baselevel.umap'
+[2020.02.17-10.44.02:366][ 71]LogFileHelpers: Saving map 'Baselevel' took 0.056
+[2020.02.17-10.44.02:367][ 71]Cmd: MAP LOAD FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Level/Baselevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.17-10.44.02:367][ 71]LightingResults: New page: Lighting Build
+[2020.02.17-10.44.02:368][ 71]LoadErrors: New page: Loading map: Baselevel.umap
+[2020.02.17-10.44.02:368][ 71]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.17-10.44.02:368][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.44.02:368][ 71]MapCheck: New page: Map Check
+[2020.02.17-10.44.02:368][ 71]LightingResults: New page: Lighting Build
+[2020.02.17-10.44.02:400][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.02.17-10.44.02:463][ 71]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.17-10.44.02:463][ 71]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.17-10.44.02:495][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.02.17-10.44.02:514][ 71]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.17-10.44.02:528][ 71]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 13,994ms to complete.
+[2020.02.17-10.44.02:528][ 71]LogFileHelpers: Loading map 'Baselevel' took 0.163
+[2020.02.17-10.44.02:548][ 71]AssetCheck: New page: Asset Save: Baselevel
+[2020.02.17-10.44.02:548][ 71]LogContentValidation: Display: Validating World /Game/Level/Baselevel.Baselevel
+[2020.02.17-10.44.22:412][147]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.17-10.44.34:175][843]LogActorFactory: Actor Factory created Plane
+[2020.02.17-10.44.34:737][875]LogActorFactory: Actor Factory created Plane
+[2020.02.17-10.44.40:045][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.17-10.44.40:632][212]LogSlate: Took 0.006028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.17-10.45.06:320][724]LogEditorViewport: Clicking Background
+[2020.02.17-10.47.33:386][128]LogSlate: Window 'Save Asset As' being destroyed
+[2020.02.17-10.47.42:098][638]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.17-10.47.42:102][638]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.17-10.47.52:425][145]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.17-10.48.06:330][964]LogActorFactory: Actor Factory created Cube
+[2020.02.17-10.48.07:531][ 36]LogActorFactory: Actor Factory created Cube
+[2020.02.17-10.48.09:549][148]LogActorFactory: Actor Factory created Cube
+[2020.02.17-10.48.12:453][322]LogActorFactory: Actor Factory created Cube
+[2020.02.17-10.48.26:276][126]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Kocke.Kocke
+[2020.02.17-10.48.26:284][126]LogMaterial: Display: Missing cached shader map for material Kocke, compiling. 
+[2020.02.17-10.48.26:721][126]LogMaterial: Display: Missing cached shader map for material Kocke, compiling. 
+[2020.02.17-10.48.26:744][126]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.17-10.48.26:744][126]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.48.26:744][126]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.17-10.48.26:744][126]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.17-10.48.26:806][126]LogSlate: Took 0.000484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.17-10.48.27:639][156]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.17-10.48.27:980][173]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.17-10.48.28:002][174]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.17-10.48.28:107][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.17-10.48.28:547][200]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.17-10.48.29:027][227]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.02.17-10.48.29:027][227]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.02.17-10.48.29:027][227]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.17-10.48.29:027][227]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.17-10.48.30:811][333]LogMaterial: Display: Missing cached shader map for material Kocke, compiling. 
+[2020.02.17-10.48.30:829][333]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.17-10.48.30:829][333]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.48.30:829][333]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.17-10.48.30:829][333]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.17-10.48.30:829][333]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.48.31:399][359]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.17-10.48.31:774][376]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.17-10.48.31:837][380]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.17-10.48.31:853][381]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.17-10.48.32:289][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.17-10.48.32:308][405]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.17-10.48.32:464][413]LogMaterial: Display: Missing cached shader map for material Kocke, compiling. 
+[2020.02.17-10.48.32:508][413]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.48.32:542][414]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.02.17-10.48.32:582][416]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.02.17-10.48.32:776][426]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.02.17-10.48.32:966][435]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.02.17-10.48.33:318][447]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.17-10.48.33:501][456]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.48.33:564][459]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.17-10.48.33:858][473]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.02.17-10.48.34:089][484]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.02.17-10.48.34:339][496]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.17-10.48.34:376][498]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.17-10.48.34:608][511]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.17-10.48.34:641][513]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.17-10.48.35:251][546]LogMaterial: Display: Missing cached shader map for material Kocke, compiling. 
+[2020.02.17-10.48.35:275][546]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.17-10.48.35:275][546]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.48.35:275][546]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.17-10.48.35:275][546]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.17-10.48.35:275][546]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.48.35:830][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.17-10.48.36:142][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.17-10.48.36:221][594]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.17-10.48.36:224][594]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.17-10.48.36:237][594]LogMaterial: Display: Missing cached shader map for material Kocke, compiling. 
+[2020.02.17-10.48.36:272][594]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.48.36:671][612]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.02.17-10.48.36:728][615]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.02.17-10.48.36:972][628]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.17-10.48.37:029][631]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.02.17-10.48.37:060][632]LogMaterial: Display: Missing cached shader map for material Kocke, compiling. 
+[2020.02.17-10.48.37:092][632]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.48.37:541][651]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.02.17-10.48.37:560][652]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.02.17-10.48.37:699][659]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.02.17-10.48.37:802][664]LogMaterial: Display: Missing cached shader map for material Kocke, compiling. 
+[2020.02.17-10.48.37:831][664]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.48.37:847][664]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.17-10.48.37:872][665]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.02.17-10.48.38:286][686]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.02.17-10.48.38:470][694]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.17-10.48.38:510][696]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.02.17-10.48.38:746][708]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.17-10.48.39:066][724]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.48.39:235][732]LogMaterialEditor: Applying material Kocke
+[2020.02.17-10.48.40:047][732]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.17-10.48.40:047][732]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.02.17-10.48.40:047][732]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.02.17-10.48.40:047][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.17-10.48.40:047][732]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.02.17-10.48.40:047][732]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.17-10.48.40:047][732]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.17-10.48.40:070][732]LogMaterial: Display: Missing cached shader map for material Kocke, compiling. 
+[2020.02.17-10.48.40:118][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.17-10.48.40:174][732]LogMaterial: Display: Missing cached shader map for material Kocke, compiling. 
+[2020.02.17-10.48.40:254][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.02.17-10.48.40:279][732]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.48.41:734][732]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.17-10.48.41:744][732]TextureStreamingBuild: Display: Compiling optional shaders took 1.487 seconds.
+[2020.02.17-10.48.41:783][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.02.17-10.48.42:268][755]LogMaterialEditor: Saving and Compiling material Kocke
+[2020.02.17-10.48.43:498][755]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.02.17-10.48.43:498][755]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.17-10.48.43:498][755]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.17-10.48.43:516][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Kocke" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Materials/Kocke.uasset" SILENT=true
+[2020.02.17-10.48.43:537][755]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Kocke076857054E6E3D037A055986FAC5A89D.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Materials/Kocke.uasset'
+[2020.02.17-10.48.43:575][755]AssetCheck: New page: Asset Save: Kocke
+[2020.02.17-10.48.43:576][755]LogContentValidation: Display: Validating Material /Game/Materials/Kocke.Kocke
+[2020.02.17-10.48.43:582][755]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.02.17-10.48.43:582][755]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.02.17-10.48.43:582][755]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.17-10.48.43:582][755]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.17-10.48.43:991][780]LogSlate: Window 'Kocke' being destroyed
+[2020.02.17-10.48.43:996][780]LogSlate: Window 'Kocke' being destroyed
+[2020.02.17-10.48.44:024][780]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.17-10.48.44:024][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.48.49:594][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.17-10.48.53:104][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.17-10.48.54:541][295]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.17-10.48.55:195][295]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Materials/Kocke.Kocke
+[2020.02.17-10.48.55:774][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.02.17-10.48.55:806][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.02.17-10.48.55:835][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.02.17-10.48.57:254][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.17-10.49.02:088][667]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Tla.Tla
+[2020.02.17-10.49.02:096][667]LogMaterial: Display: Missing cached shader map for material Tla, compiling. 
+[2020.02.17-10.49.02:234][667]LogMaterial: Display: Missing cached shader map for material Tla, compiling. 
+[2020.02.17-10.49.02:256][667]LogMaterial: Display: Missing cached shader map for material Tla, compiling. 
+[2020.02.17-10.49.02:279][667]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.17-10.49.02:279][667]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.49.02:279][667]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.17-10.49.02:279][667]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.17-10.49.02:911][690]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.17-10.49.03:268][707]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.17-10.49.03:292][708]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.17-10.49.03:309][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.17-10.49.03:799][734]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.17-10.49.04:266][760]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.02.17-10.49.04:266][760]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.02.17-10.49.04:266][760]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.17-10.49.04:266][760]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.17-10.49.04:862][795]LogMaterial: Display: Missing cached shader map for material Tla, compiling. 
+[2020.02.17-10.49.04:880][795]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.17-10.49.04:880][795]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.49.04:880][795]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.17-10.49.04:880][795]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.17-10.49.04:880][795]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.49.05:442][822]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.17-10.49.05:790][839]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.17-10.49.05:808][840]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.17-10.49.05:825][841]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.17-10.49.06:288][866]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.17-10.49.06:288][866]LogMaterial: Display: Missing cached shader map for material Tla, compiling. 
+[2020.02.17-10.49.06:317][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.49.06:331][866]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.17-10.49.06:518][871]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.02.17-10.49.06:560][874]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.02.17-10.49.06:945][889]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.02.17-10.49.07:087][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.17-10.49.07:223][903]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.02.17-10.49.07:427][913]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.17-10.49.07:823][932]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.17-10.49.07:842][933]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.17-10.49.08:099][946]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.17-10.49.08:270][954]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.17-10.49.08:406][961]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.17-10.49.08:670][975]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.17-10.49.09:428][ 19]LogMaterial: Display: Missing cached shader map for material Tla, compiling. 
+[2020.02.17-10.49.09:452][ 19]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.17-10.49.09:452][ 19]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.49.09:452][ 19]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.17-10.49.09:452][ 19]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.17-10.49.09:452][ 19]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.49.10:007][ 46]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.17-10.49.10:336][ 63]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.17-10.49.10:371][ 65]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.17-10.49.10:391][ 66]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.17-10.49.10:755][ 86]LogMaterial: Display: Missing cached shader map for material Tla, compiling. 
+[2020.02.17-10.49.10:784][ 86]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.49.10:844][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.02.17-10.49.10:909][ 91]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.02.17-10.49.11:134][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.17-10.49.11:218][105]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.02.17-10.49.11:699][127]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.02.17-10.49.11:800][132]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.17-10.49.11:897][137]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.17-10.49.11:996][142]LogMaterial: Display: Missing cached shader map for material Tla, compiling. 
+[2020.02.17-10.49.12:027][142]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.49.12:041][142]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.17-10.49.12:103][145]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.02.17-10.49.12:355][158]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.02.17-10.49.12:647][173]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.17-10.49.12:687][175]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.17-10.49.13:019][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.17-10.49.13:155][198]LogMaterialEditor: Applying material Tla
+[2020.02.17-10.49.13:952][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.49.13:952][198]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.02.17-10.49.13:952][198]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.17-10.49.13:952][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.02.17-10.49.13:952][198]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.17-10.49.13:952][198]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.02.17-10.49.13:981][198]LogMaterial: Display: Missing cached shader map for material Tla, compiling. 
+[2020.02.17-10.49.14:030][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.17-10.49.14:033][198]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.17-10.49.14:089][198]LogMaterial: Display: Missing cached shader map for material Tla, compiling. 
+[2020.02.17-10.49.14:162][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.02.17-10.49.14:184][198]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.49.15:717][198]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.17-10.49.15:720][198]TextureStreamingBuild: Display: Compiling optional shaders took 1.557 seconds.
+[2020.02.17-10.49.15:755][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.02.17-10.49.16:277][222]LogMaterialEditor: Saving and Compiling material Tla
+[2020.02.17-10.49.17:543][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.02.17-10.49.17:543][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.17-10.49.17:543][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.17-10.49.17:558][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Tla" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Materials/Tla.uasset" SILENT=true
+[2020.02.17-10.49.17:578][222]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Tla6BCE86C0414E4BF555875F9F296EFE44.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Materials/Tla.uasset'
+[2020.02.17-10.49.17:621][222]AssetCheck: New page: Asset Save: Tla
+[2020.02.17-10.49.17:621][222]LogContentValidation: Display: Validating Material /Game/Materials/Tla.Tla
+[2020.02.17-10.49.17:626][222]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.02.17-10.49.17:626][222]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.02.17-10.49.17:626][222]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.17-10.49.17:626][222]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.17-10.49.18:052][248]LogSlate: Window 'Tla' being destroyed
+[2020.02.17-10.49.18:057][248]LogSlate: Window 'Tla' being destroyed
+[2020.02.17-10.49.18:078][248]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.17-10.49.18:078][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.49.21:540][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.17-10.49.21:609][455]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.17-10.49.23:932][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.17-10.49.32:999][107]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/kocke.kocke
+[2020.02.17-10.49.33:007][107]LogMaterial: Display: Missing cached shader map for material kocke, compiling. 
+[2020.02.17-10.49.33:161][107]LogMaterial: Display: Missing cached shader map for material kocke, compiling. 
+[2020.02.17-10.49.33:179][107]LogMaterial: Display: Missing cached shader map for material kocke, compiling. 
+[2020.02.17-10.49.33:197][107]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.17-10.49.33:197][107]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.49.33:197][107]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.17-10.49.33:197][107]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.17-10.49.33:821][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.17-10.49.34:203][148]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.17-10.49.34:245][150]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.17-10.49.34:265][151]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.17-10.49.34:873][181]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.17-10.49.35:393][209]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.02.17-10.49.35:393][209]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.02.17-10.49.35:393][209]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.17-10.49.35:393][209]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.17-10.49.35:550][218]LogMaterial: Display: Missing cached shader map for material kocke, compiling. 
+[2020.02.17-10.49.35:568][218]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.49.35:603][219]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.17-10.49.35:603][219]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.49.35:603][219]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.17-10.49.35:603][219]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.17-10.49.36:134][245]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.17-10.49.36:488][263]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.17-10.49.36:509][264]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.17-10.49.36:543][266]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.17-10.49.36:996][291]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.17-10.49.37:029][293]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.17-10.49.37:166][300]LogMaterial: Display: Missing cached shader map for material kocke, compiling. 
+[2020.02.17-10.49.37:210][300]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.49.37:221][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.17-10.49.37:279][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.02.17-10.49.37:489][314]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.17-10.49.37:670][323]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.17-10.49.38:024][335]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.17-10.49.38:132][340]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.17-10.49.38:234][345]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.17-10.49.38:563][362]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.17-10.49.38:668][368]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.17-10.49.38:900][380]LogMaterial: Display: Missing cached shader map for material kocke, compiling. 
+[2020.02.17-10.49.38:934][380]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.49.38:950][380]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.17-10.49.38:968][381]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.02.17-10.49.39:182][391]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.02.17-10.49.39:365][399]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.17-10.49.39:719][418]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.17-10.49.39:833][424]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.17-10.49.39:889][427]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.17-10.49.40:205][443]LogMaterial: Display: Missing cached shader map for material kocke, compiling. 
+[2020.02.17-10.49.40:222][443]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.17-10.49.40:240][443]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.49.40:322][445]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.02.17-10.49.40:610][457]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.02.17-10.49.40:630][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.02.17-10.49.40:916][472]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.17-10.49.41:038][478]LogMaterial: Display: Missing cached shader map for material kocke, compiling. 
+[2020.02.17-10.49.41:073][478]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.17-10.49.41:088][478]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.17-10.49.41:181][482]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.02.17-10.49.41:237][485]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.02.17-10.49.41:572][502]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.17-10.49.41:869][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.17-10.49.42:070][525]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.17-10.49.42:070][525]LogMaterialEditor: Applying material kocke
+[2020.02.17-10.49.42:868][525]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.49.42:868][525]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.02.17-10.49.42:869][525]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.17-10.49.42:869][525]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.17-10.49.42:869][525]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.17-10.49.42:869][525]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.17-10.49.42:899][525]LogMaterial: Display: Missing cached shader map for material kocke, compiling. 
+[2020.02.17-10.49.42:950][525]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.17-10.49.42:999][525]LogMaterial: Display: Missing cached shader map for material kocke, compiling. 
+[2020.02.17-10.49.43:090][525]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.02.17-10.49.43:093][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.02.17-10.49.43:123][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.17-10.49.44:638][525]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.02.17-10.49.44:638][525]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.02.17-10.49.44:638][525]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.02.17-10.49.44:638][525]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.02.17-10.49.44:638][525]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.02.17-10.49.44:638][525]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.02.17-10.49.44:638][525]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.02.17-10.49.44:638][525]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.02.17-10.49.44:638][525]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.02.17-10.49.44:638][525]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.02.17-10.49.44:638][525]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.02.17-10.49.44:638][525]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.02.17-10.49.44:638][525]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.17-10.49.44:639][525]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.17-10.49.44:639][525]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.17-10.49.44:644][525]TextureStreamingBuild: Display: Compiling optional shaders took 1.549 seconds.
+[2020.02.17-10.49.44:677][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.02.17-10.49.44:977][538]LogMaterialEditor: Saving and Compiling material kocke
+[2020.02.17-10.49.46:424][538]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.17-10.49.46:424][538]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.17-10.49.46:424][538]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.17-10.49.46:442][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/kocke" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Materials/kocke.uasset" SILENT=true
+[2020.02.17-10.49.46:462][538]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/kocke76808DA346E4796C711F0DABED7FC8F1.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Materials/kocke.uasset'
+[2020.02.17-10.49.46:497][538]AssetCheck: New page: Asset Save: kocke
+[2020.02.17-10.49.46:497][538]LogContentValidation: Display: Validating Material /Game/Materials/kocke.kocke
+[2020.02.17-10.49.46:503][538]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.02.17-10.49.46:503][538]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.02.17-10.49.46:503][538]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.17-10.49.46:503][538]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.17-10.49.50:767][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.17-10.49.53:150][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.17-10.50.01:442][418]Cmd: DELETE
+[2020.02.17-10.50.01:442][418]Cmd: ACTOR DELETE
+[2020.02.17-10.50.01:448][418]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.17-10.50.01:482][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.02.17-10.50.01:484][418]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.02.17-10.50.02:391][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.17-10.50.13:294][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.17-10.50.31:454][174]LogEditorViewport: Clicking Background
+[2020.02.17-10.50.34:185][337]LogEditorViewport: Clicking Background
+[2020.02.17-10.50.37:564][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.17-10.50.41:189][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.17-10.50.43:941][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.02.17-10.50.47:040][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.17-10.50.50:867][285]LogEditorViewport: Clicking Background
+[2020.02.17-10.50.55:644][566]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Character.BP_Character
+[2020.02.17-10.50.55:859][566]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.02.17-10.50.56:904][567]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2020.02.17-10.51.00:089][752]LogMaterialEditor: Saving and Compiling material kocke
+[2020.02.17-10.51.00:123][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/kocke" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Materials/kocke.uasset" SILENT=true
+[2020.02.17-10.51.00:140][752]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/kockeC868E467479D208CD64FACB6B81829E5.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Materials/kocke.uasset'
+[2020.02.17-10.51.00:154][752]AssetCheck: New page: Asset Save: kocke
+[2020.02.17-10.51.00:154][752]LogContentValidation: Display: Validating Material /Game/Materials/kocke.kocke
+[2020.02.17-10.51.00:857][788]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.17-10.51.00:857][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.51.48:085][539]BlueprintLog: New page: Compile BP_Character
+[2020.02.17-10.51.48:379][539]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
+[2020.02.17-10.51.49:235][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Character" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset" SILENT=true
+[2020.02.17-10.51.49:254][583]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_CharacterF441BCA646E8AC9033DDF8BEC94EB81F.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset'
+[2020.02.17-10.51.49:272][583]AssetCheck: New page: Asset Save: BP_Character
+[2020.02.17-10.51.49:272][583]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Character.BP_Character
+[2020.02.17-10.52.58:472][608]BlueprintLog: New page: Compile BP_Character
+[2020.02.17-10.52.58:709][608]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.02.17-10.54.00:315][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.02.17-10.54.00:332][270]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Baselevel_Auto18704540C41EAC0184D16C8B9D5681C09.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Autosaves/Game/Level/Baselevel_Auto1.umap'
+[2020.02.17-10.54.00:338][270]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Baselevel' took 0.062
+[2020.02.17-10.54.00:338][270]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.062
+[2020.02.17-10.54.00:338][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GM_BASE] ([1] browsable assets)...
+[2020.02.17-10.54.00:339][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_BASE]
+[2020.02.17-10.54.00:339][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_BASE" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Autosaves/Game/Blueprints/GM_BASE_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.02.17-10.54.00:351][270]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/GM_BASE_Auto16E1F98FB4793961AE88D0E852714BC58.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Autosaves/Game/Blueprints/GM_BASE_Auto1.uasset'
+[2020.02.17-10.54.00:353][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Character] ([1] browsable assets)...
+[2020.02.17-10.54.00:353][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Character]
+[2020.02.17-10.54.00:374][270]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_Character_Auto13506134F490B8D6A5973DD89B3001082.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Autosaves/Game/Blueprints/BP_Character_Auto1.uasset'
+[2020.02.17-10.54.00:375][270]LogFileHelpers: Auto-saving content packages took 0.038
+[2020.02.17-10.56.24:585][ 66]BlueprintLog: New page: Compile BP_Character
+[2020.02.17-10.56.24:832][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.02.17-10.56.44:265][182]BlueprintLog: New page: Compile BP_Character
+[2020.02.17-10.56.44:506][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.02.17-10.56.46:864][317]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.17-10.56.46:882][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-10.56.46:883][317]PIE: New page: PIE session: Baselevel (17. feb. 2020 12:56:46)
+[2020.02.17-10.56.46:884][317]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.17-10.56.46:886][317]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.17-10.56.46:886][317]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-10.56.46:887][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001171s)
+[2020.02.17-10.56.46:888][317]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.17-10.56.46:888][317]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2020.02.17-10.56.46:888][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.002547s)
+[2020.02.17-10.56.46:922][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.02.17-10.56.46:923][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.17-10.56.46:923][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.17-10.56.46:923][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.17-10.56.46:923][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.17-10.56.46:923][317]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.17-10.56.46:923][317]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.17-10.56.46:923][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.17-10.56.46:923][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.17-10.56.46:924][317]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.17-10.56.46:924][317]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.17-10.56.46:934][317]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.17-10.56.46:934][317]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.17-10.56.46:934][317]LogAudioMixer: Display: Is Default: Yes
+[2020.02.17-10.56.46:934][317]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.17-10.56.46:934][317]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.17-10.56.46:934][317]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.17-10.56.46:934][317]LogAudioMixer: Display: Channel Order:
+[2020.02.17-10.56.46:934][317]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.17-10.56.46:934][317]LogAudioMixer: Display: 1: FrontRight
+[2020.02.17-10.56.46:947][317]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.17-10.56.46:949][317]LogInit: FAudioDevice initialized.
+[2020.02.17-10.56.46:956][317]LogLoad: Game class is 'GameModeBase'
+[2020.02.17-10.56.46:963][317]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.17-11.56.46
+[2020.02.17-10.56.46:963][317]LogWorld: Bringing up level for play took: 0.000668
+[2020.02.17-10.56.46:964][317]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.02.17-10.56.46:975][317]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.17-10.56.46:976][317]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel −0,188
+[2020.02.17-10.56.50:424][503]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.56.50:424][503]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.56.50:424][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.56.50:424][503]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-10.56.50:424][503]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.56.50:424][503]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.17-10.56.50:425][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.56.50:434][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-10.56.50:439][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.56.50:476][503]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.56.50:479][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.56.50:507][503]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.02.17-10.56.50:525][504]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.17-10.57.28:611][726]BlueprintLog: New page: Compile BP_Character
+[2020.02.17-10.57.28:906][726]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.02.17-10.57.44:511][637]BlueprintLog: New page: Compile BP_Character
+[2020.02.17-10.57.44:808][637]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.02.17-10.57.45:231][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Character" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset" SILENT=true
+[2020.02.17-10.57.45:255][658]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_Character85D426334E77027D966FC1872DE45DAF.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset'
+[2020.02.17-10.57.45:275][658]AssetCheck: New page: Asset Save: BP_Character
+[2020.02.17-10.57.45:276][658]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Character.BP_Character
+[2020.02.17-10.57.47:228][772]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.17-10.57.47:246][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-10.57.47:246][772]PIE: New page: PIE session: Baselevel (17. feb. 2020 12:57:47)
+[2020.02.17-10.57.47:246][772]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-10.57.47:248][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001219s)
+[2020.02.17-10.57.47:249][772]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.17-10.57.47:249][772]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2020.02.17-10.57.47:249][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.002447s)
+[2020.02.17-10.57.47:293][772]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.02.17-10.57.47:293][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.17-10.57.47:293][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.17-10.57.47:293][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.17-10.57.47:293][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.17-10.57.47:293][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.17-10.57.47:293][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.17-10.57.47:293][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.17-10.57.47:293][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.17-10.57.47:294][772]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.17-10.57.47:294][772]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.17-10.57.47:303][772]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.17-10.57.47:303][772]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.17-10.57.47:303][772]LogAudioMixer: Display: Is Default: Yes
+[2020.02.17-10.57.47:303][772]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.17-10.57.47:303][772]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.17-10.57.47:303][772]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.17-10.57.47:303][772]LogAudioMixer: Display: Channel Order:
+[2020.02.17-10.57.47:303][772]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.17-10.57.47:303][772]LogAudioMixer: Display: 1: FrontRight
+[2020.02.17-10.57.47:316][772]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.17-10.57.47:318][772]LogInit: FAudioDevice initialized.
+[2020.02.17-10.57.47:328][772]LogLoad: Game class is 'GameModeBase'
+[2020.02.17-10.57.47:330][772]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.17-11.57.47
+[2020.02.17-10.57.47:330][772]LogWorld: Bringing up level for play took: 0.000579
+[2020.02.17-10.57.47:330][772]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.02.17-10.57.47:332][772]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel 0,165
+[2020.02.17-10.57.56:931][348]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.57.56:931][348]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.57.56:931][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.57.56:931][348]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-10.57.56:931][348]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.57.56:931][348]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.17-10.57.56:931][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.57.56:939][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-10.57.56:945][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.57.56:988][348]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.57.56:991][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.57.56:996][348]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.02.17-10.57.57:029][350]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.17-10.58.29:559][265]BlueprintLog: New page: Compile BP_Character
+[2020.02.17-10.58.29:878][265]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.02.17-10.58.30:262][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Character" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset" SILENT=true
+[2020.02.17-10.58.30:284][284]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_Character69BDB60F418218438246A2962C3E8D91.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset'
+[2020.02.17-10.58.30:300][284]AssetCheck: New page: Asset Save: BP_Character
+[2020.02.17-10.58.30:301][284]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Character.BP_Character
+[2020.02.17-10.58.33:021][445]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.17-10.58.33:037][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-10.58.33:037][445]PIE: New page: PIE session: Baselevel (17. feb. 2020 12:58:33)
+[2020.02.17-10.58.33:038][445]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-10.58.33:039][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001116s)
+[2020.02.17-10.58.33:040][445]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.17-10.58.33:040][445]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2020.02.17-10.58.33:040][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.002282s)
+[2020.02.17-10.58.33:082][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.02.17-10.58.33:084][445]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.17-10.58.33:084][445]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.17-10.58.33:084][445]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.17-10.58.33:084][445]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.17-10.58.33:084][445]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.17-10.58.33:084][445]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.17-10.58.33:084][445]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.17-10.58.33:084][445]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.17-10.58.33:084][445]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.17-10.58.33:084][445]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.17-10.58.33:094][445]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.17-10.58.33:094][445]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.17-10.58.33:095][445]LogAudioMixer: Display: Is Default: Yes
+[2020.02.17-10.58.33:095][445]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.17-10.58.33:095][445]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.17-10.58.33:095][445]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.17-10.58.33:095][445]LogAudioMixer: Display: Channel Order:
+[2020.02.17-10.58.33:095][445]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.17-10.58.33:095][445]LogAudioMixer: Display: 1: FrontRight
+[2020.02.17-10.58.33:107][445]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.17-10.58.33:109][445]LogInit: FAudioDevice initialized.
+[2020.02.17-10.58.33:119][445]LogLoad: Game class is 'GameModeBase'
+[2020.02.17-10.58.33:121][445]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.17-11.58.33
+[2020.02.17-10.58.33:121][445]LogWorld: Bringing up level for play took: 0.000602
+[2020.02.17-10.58.33:121][445]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.02.17-10.58.33:123][445]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel −0,046
+[2020.02.17-10.58.39:056][801]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.58.39:067][801]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.17-10.58.39:087][801]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.17-10.58.39:087][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.58.39:087][801]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-10.58.39:087][801]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.58.39:087][801]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.17-10.58.39:087][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.58.39:096][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-10.58.39:102][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.58.39:143][801]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.58.39:145][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.58.39:150][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.02.17-10.58.39:163][802]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.17-10.58.43:014][ 30]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GM_BASE.GM_BASE
+[2020.02.17-10.58.46:096][185]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.17-10.59.17:320][ 44]BlueprintLog: New page: Compile GM_BASE
+[2020.02.17-10.59.17:627][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.02.17-10.59.18:007][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_BASE" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/GM_BASE.uasset" SILENT=true
+[2020.02.17-10.59.18:022][ 63]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/GM_BASEF3D5B0804164B2EE7B1C06A66191A926.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/GM_BASE.uasset'
+[2020.02.17-10.59.18:043][ 63]AssetCheck: New page: Asset Save: GM_BASE
+[2020.02.17-10.59.18:043][ 63]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GM_BASE.GM_BASE
+[2020.02.17-10.59.20:991][233]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.17-10.59.21:011][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-10.59.21:011][233]PIE: New page: PIE session: Baselevel (17. feb. 2020 12:59:21)
+[2020.02.17-10.59.21:011][233]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-10.59.21:012][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001184s)
+[2020.02.17-10.59.21:013][233]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.17-10.59.21:013][233]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2020.02.17-10.59.21:013][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.002293s)
+[2020.02.17-10.59.21:067][233]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.02.17-10.59.21:068][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.17-10.59.21:068][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.17-10.59.21:068][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.17-10.59.21:068][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.17-10.59.21:069][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.17-10.59.21:069][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.17-10.59.21:069][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.17-10.59.21:069][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.17-10.59.21:069][233]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.17-10.59.21:069][233]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.17-10.59.21:079][233]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.17-10.59.21:079][233]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.17-10.59.21:079][233]LogAudioMixer: Display: Is Default: Yes
+[2020.02.17-10.59.21:079][233]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.17-10.59.21:079][233]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.17-10.59.21:079][233]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.17-10.59.21:079][233]LogAudioMixer: Display: Channel Order:
+[2020.02.17-10.59.21:079][233]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.17-10.59.21:079][233]LogAudioMixer: Display: 1: FrontRight
+[2020.02.17-10.59.21:092][233]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.17-10.59.21:093][233]LogInit: FAudioDevice initialized.
+[2020.02.17-10.59.21:103][233]LogLoad: Game class is 'GameModeBase'
+[2020.02.17-10.59.21:104][233]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.17-11.59.21
+[2020.02.17-10.59.21:105][233]LogWorld: Bringing up level for play took: 0.000560
+[2020.02.17-10.59.21:105][233]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.02.17-10.59.21:107][233]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel −0,066
+[2020.02.17-10.59.24:470][435]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.59.24:489][435]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.17-10.59.24:510][435]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.17-10.59.24:511][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.59.24:511][435]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-10.59.24:511][435]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.59.24:511][435]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.17-10.59.24:511][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.59.24:518][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-10.59.24:523][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.59.24:568][435]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.59.24:571][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.59.24:576][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.02.17-10.59.24:593][436]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.17-10.59.35:401][ 62]BlueprintLog: New page: Compile BP_Character
+[2020.02.17-10.59.35:718][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.02.17-10.59.37:801][183]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.17-10.59.37:822][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-10.59.37:822][183]PIE: New page: PIE session: Baselevel (17. feb. 2020 12:59:37)
+[2020.02.17-10.59.37:822][183]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-10.59.37:823][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001127s)
+[2020.02.17-10.59.37:824][183]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.17-10.59.37:824][183]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2020.02.17-10.59.37:824][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.002249s)
+[2020.02.17-10.59.37:881][183]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2020.02.17-10.59.37:882][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.17-10.59.37:882][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.17-10.59.37:882][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.17-10.59.37:882][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.17-10.59.37:882][183]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.17-10.59.37:882][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.17-10.59.37:882][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.17-10.59.37:882][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.17-10.59.37:883][183]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.17-10.59.37:883][183]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.17-10.59.37:895][183]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.17-10.59.37:895][183]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.17-10.59.37:895][183]LogAudioMixer: Display: Is Default: Yes
+[2020.02.17-10.59.37:895][183]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.17-10.59.37:895][183]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.17-10.59.37:895][183]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.17-10.59.37:895][183]LogAudioMixer: Display: Channel Order:
+[2020.02.17-10.59.37:895][183]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.17-10.59.37:895][183]LogAudioMixer: Display: 1: FrontRight
+[2020.02.17-10.59.37:907][183]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.17-10.59.37:909][183]LogInit: FAudioDevice initialized.
+[2020.02.17-10.59.37:915][183]LogLoad: Game class is 'GameModeBase'
+[2020.02.17-10.59.37:916][183]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.17-11.59.37
+[2020.02.17-10.59.37:917][183]LogWorld: Bringing up level for play took: 0.000563
+[2020.02.17-10.59.37:917][183]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.02.17-10.59.37:919][183]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel 0,746
+[2020.02.17-10.59.40:918][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.59.40:918][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.59.40:918][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.59.40:918][363]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-10.59.40:918][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.59.40:918][363]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.17-10.59.40:918][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.59.40:928][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-10.59.40:934][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.59.40:985][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.59.40:987][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.59.40:992][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.02.17-10.59.41:035][365]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.17-10.59.44:803][588]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.17-10.59.44:822][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-10.59.44:822][588]PIE: New page: PIE session: Baselevel (17. feb. 2020 12:59:44)
+[2020.02.17-10.59.44:822][588]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-10.59.44:824][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001117s)
+[2020.02.17-10.59.44:824][588]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.17-10.59.44:825][588]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2020.02.17-10.59.44:825][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.002251s)
+[2020.02.17-10.59.44:873][588]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.02.17-10.59.44:874][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.17-10.59.44:874][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.17-10.59.44:874][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.17-10.59.44:874][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.17-10.59.44:874][588]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.17-10.59.44:874][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.17-10.59.44:874][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.17-10.59.44:874][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.17-10.59.44:875][588]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.17-10.59.44:875][588]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.17-10.59.44:885][588]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.17-10.59.44:885][588]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.17-10.59.44:885][588]LogAudioMixer: Display: Is Default: Yes
+[2020.02.17-10.59.44:885][588]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.17-10.59.44:885][588]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.17-10.59.44:885][588]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.17-10.59.44:885][588]LogAudioMixer: Display: Channel Order:
+[2020.02.17-10.59.44:885][588]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.17-10.59.44:886][588]LogAudioMixer: Display: 1: FrontRight
+[2020.02.17-10.59.44:898][588]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.17-10.59.44:899][588]LogInit: FAudioDevice initialized.
+[2020.02.17-10.59.44:905][588]LogLoad: Game class is 'GameModeBase'
+[2020.02.17-10.59.44:907][588]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.17-11.59.44
+[2020.02.17-10.59.44:907][588]LogWorld: Bringing up level for play took: 0.000539
+[2020.02.17-10.59.44:907][588]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.02.17-10.59.44:909][588]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel −0,265
+[2020.02.17-10.59.51:452][978]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.59.51:452][978]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.59.51:452][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.59.51:453][978]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-10.59.51:453][978]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.59.51:453][978]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.17-10.59.51:453][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.59.51:463][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-10.59.51:468][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-10.59.51:518][978]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-10.59.51:521][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-10.59.51:525][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.02.17-10.59.51:566][980]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.17-11.00.37:451][655]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.17-11.00.49:479][349]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.17-11.00.49:484][349]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.17-11.00.50:025][380]LogEditorViewport: Clicking Background
+[2020.02.17-11.00.50:693][420]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.17-11.00.50:713][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-11.00.50:713][420]PIE: New page: PIE session: Baselevel (17. feb. 2020 13:00:50)
+[2020.02.17-11.00.50:714][420]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-11.00.50:715][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001236s)
+[2020.02.17-11.00.50:716][420]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.17-11.00.50:716][420]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2020.02.17-11.00.50:716][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.002520s)
+[2020.02.17-11.00.50:764][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.02.17-11.00.50:767][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.17-11.00.50:767][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.17-11.00.50:767][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.17-11.00.50:767][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.17-11.00.50:767][420]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.17-11.00.50:767][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.17-11.00.50:767][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.17-11.00.50:767][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.17-11.00.50:768][420]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.17-11.00.50:768][420]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.17-11.00.50:778][420]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.17-11.00.50:778][420]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.17-11.00.50:778][420]LogAudioMixer: Display: Is Default: Yes
+[2020.02.17-11.00.50:778][420]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.17-11.00.50:778][420]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.17-11.00.50:778][420]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.17-11.00.50:778][420]LogAudioMixer: Display: Channel Order:
+[2020.02.17-11.00.50:778][420]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.17-11.00.50:778][420]LogAudioMixer: Display: 1: FrontRight
+[2020.02.17-11.00.50:792][420]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.17-11.00.50:794][420]LogInit: FAudioDevice initialized.
+[2020.02.17-11.00.50:799][420]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.17-11.00.50:801][420]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.17-12.00.50
+[2020.02.17-11.00.50:801][420]LogWorld: Bringing up level for play took: 0.000620
+[2020.02.17-11.00.50:801][420]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.02.17-11.00.50:805][420]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel −0,372
+[2020.02.17-11.00.55:577][706]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-11.00.55:577][706]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-11.00.55:577][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-11.00.55:577][706]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-11.00.55:577][706]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-11.00.55:577][706]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.17-11.00.55:577][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-11.00.55:588][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-11.00.55:594][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-11.00.55:646][706]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-11.00.55:649][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-11.00.55:653][706]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.02.17-11.00.55:686][708]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.17-11.01.05:129][239]BlueprintLog: New page: Compile BP_Character
+[2020.02.17-11.01.05:444][239]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.02.17-11.01.06:078][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Character" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset" SILENT=true
+[2020.02.17-11.01.06:117][267]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_CharacterE1DF65814F3162B099BBDA83D853AD22.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset'
+[2020.02.17-11.01.06:132][267]AssetCheck: New page: Asset Save: BP_Character
+[2020.02.17-11.01.06:132][267]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Character.BP_Character
+[2020.02.17-11.01.07:662][357]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.17-11.01.07:682][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-11.01.07:682][357]PIE: New page: PIE session: Baselevel (17. feb. 2020 13:01:07)
+[2020.02.17-11.01.07:683][357]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-11.01.07:684][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001152s)
+[2020.02.17-11.01.07:685][357]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.17-11.01.07:685][357]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2020.02.17-11.01.07:685][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.002280s)
+[2020.02.17-11.01.07:731][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.17-11.01.07:732][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.17-11.01.07:732][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.17-11.01.07:732][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.17-11.01.07:732][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.17-11.01.07:732][357]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.17-11.01.07:732][357]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.17-11.01.07:732][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.17-11.01.07:732][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.17-11.01.07:732][357]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.17-11.01.07:732][357]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.17-11.01.07:742][357]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.17-11.01.07:743][357]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.17-11.01.07:743][357]LogAudioMixer: Display: Is Default: Yes
+[2020.02.17-11.01.07:743][357]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.17-11.01.07:743][357]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.17-11.01.07:743][357]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.17-11.01.07:743][357]LogAudioMixer: Display: Channel Order:
+[2020.02.17-11.01.07:743][357]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.17-11.01.07:743][357]LogAudioMixer: Display: 1: FrontRight
+[2020.02.17-11.01.07:755][357]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.17-11.01.07:756][357]LogInit: FAudioDevice initialized.
+[2020.02.17-11.01.07:766][357]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.17-11.01.07:767][357]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.17-12.01.07
+[2020.02.17-11.01.07:768][357]LogWorld: Bringing up level for play took: 0.000541
+[2020.02.17-11.01.07:768][357]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.02.17-11.01.07:770][357]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel 0,593
+[2020.02.17-11.01.12:067][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-11.01.12:067][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-11.01.12:067][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-11.01.12:067][615]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.17-11.01.12:067][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-11.01.12:067][615]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.17-11.01.12:068][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-11.01.12:075][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-11.01.12:080][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.17-11.01.12:129][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.17-11.01.12:132][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-11.01.12:136][615]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.02.17-11.01.12:170][617]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.17-11.02.07:974][339]BlueprintLog: New page: Compile BP_Character
+[2020.02.17-11.02.08:290][339]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.02.17-11.02.21:431][104]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.02.17-11.02.21:436][104]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.02.17-11.02.23:620][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Character" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset" SILENT=true
+[2020.02.17-11.02.23:650][229]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_Character25E1E88947B96E4F02E4FB9150839430.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset'
+[2020.02.17-11.02.23:666][229]AssetCheck: New page: Asset Save: BP_Character
+[2020.02.17-11.02.23:666][229]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Character.BP_Character
+[2020.02.17-11.02.25:173][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_BASE" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/GM_BASE.uasset" SILENT=true
+[2020.02.17-11.02.25:194][316]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/GM_BASE459C68F241AB6E382A17DBA029D3654B.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/GM_BASE.uasset'
+[2020.02.17-11.02.25:209][316]AssetCheck: New page: Asset Save: GM_BASE
+[2020.02.17-11.02.25:210][316]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GM_BASE.GM_BASE
+[2020.02.17-11.02.25:326][323]Cmd: ACTOR SELECT ALL DESCENDANTS
+[2020.02.17-11.02.55:419][ 23]BlueprintLog: New page: Compile BP_Character
+[2020.02.17-11.02.55:757][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.02.17-11.03.30:980][ 46]BlueprintLog: New page: Compile BP_Character
+[2020.02.17-11.03.31:309][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.02.17-11.03.31:747][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Character" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset" SILENT=true
+[2020.02.17-11.03.31:776][ 66]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_Character3944D9E944477EC3173E989CC07DBC8A.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset'
+[2020.02.17-11.03.31:792][ 66]AssetCheck: New page: Asset Save: BP_Character
+[2020.02.17-11.03.31:792][ 66]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Character.BP_Character
+[2020.02.17-11.03.37:837][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.17-11.04.42:996][837]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.02.17-11.04.43:016][837]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Baselevel_Auto2AA152406468881EDBFBC23A3AFA41E6D.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Autosaves/Game/Level/Baselevel_Auto2.umap'
+[2020.02.17-11.04.43:019][837]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Baselevel' took 0.084
+[2020.02.17-11.04.43:019][837]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.084
