@@ -1400,3 +1400,274 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.19-12.51.13:081][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.19-12.51.13:086][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
 [2020.02.19-12.51.13:136][204]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.19-12.53.10:122][535]BlueprintLog: New page: Compile BP_Character
+[2020.02.19-12.53.10:415][535]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.02.19-12.53.38:637][185]BlueprintLog: New page: Compile BP_bomba
+[2020.02.19-12.53.38:915][185]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.02.19-12.53.44:625][518]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-12.53.44:653][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-12.53.44:653][518]PIE: New page: PIE session: Baselevel (19. feb. 2020 14:53:44)
+[2020.02.19-12.53.44:653][518]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-12.53.44:655][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001968s)
+[2020.02.19-12.53.44:656][518]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.19-12.53.44:656][518]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2020.02.19-12.53.44:656][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.003383s)
+[2020.02.19-12.53.44:701][518]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.02.19-12.53.44:702][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-12.53.44:702][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-12.53.44:702][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-12.53.44:702][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-12.53.44:702][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-12.53.44:702][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-12.53.44:702][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-12.53.44:702][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-12.53.44:703][518]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-12.53.44:703][518]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-12.53.44:713][518]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-12.53.44:713][518]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.19-12.53.44:713][518]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-12.53.44:713][518]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-12.53.44:713][518]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-12.53.44:713][518]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-12.53.44:713][518]LogAudioMixer: Display: Channel Order:
+[2020.02.19-12.53.44:713][518]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-12.53.44:713][518]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-12.53.44:725][518]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.19-12.53.44:726][518]LogInit: FAudioDevice initialized.
+[2020.02.19-12.53.44:736][518]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.19-12.53.44:738][518]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.19-13.53.44
+[2020.02.19-12.53.44:738][518]LogWorld: Bringing up level for play took: 0.000843
+[2020.02.19-12.53.44:738][518]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.02.19-12.53.44:740][518]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel 0,289
+[2020.02.19-12.53.49:689][815]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.53.49:689][815]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.53.49:690][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-12.53.49:690][815]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-12.53.49:690][815]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.53.49:690][815]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-12.53.49:690][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-12.53.49:700][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-12.53.49:705][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-12.53.49:747][815]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.53.49:750][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-12.53.49:755][815]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.02.19-12.53.49:803][817]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.02.19-12.53.53:836][ 47]BlueprintLog: New page: Compile BP_Character
+[2020.02.19-12.53.54:115][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.02.19-12.53.55:673][135]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-12.53.55:697][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-12.53.55:697][135]PIE: New page: PIE session: Baselevel (19. feb. 2020 14:53:55)
+[2020.02.19-12.53.55:697][135]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-12.53.55:699][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001822s)
+[2020.02.19-12.53.55:700][135]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.19-12.53.55:700][135]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2020.02.19-12.53.55:700][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.002782s)
+[2020.02.19-12.53.55:742][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.02.19-12.53.55:742][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-12.53.55:743][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-12.53.55:743][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-12.53.55:743][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-12.53.55:743][135]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-12.53.55:743][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-12.53.55:743][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-12.53.55:743][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-12.53.55:743][135]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-12.53.55:743][135]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-12.53.55:752][135]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-12.53.55:752][135]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.19-12.53.55:752][135]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-12.53.55:752][135]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-12.53.55:752][135]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-12.53.55:752][135]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-12.53.55:752][135]LogAudioMixer: Display: Channel Order:
+[2020.02.19-12.53.55:752][135]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-12.53.55:752][135]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-12.53.55:764][135]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.19-12.53.55:765][135]LogInit: FAudioDevice initialized.
+[2020.02.19-12.53.55:776][135]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.19-12.53.55:777][135]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.19-13.53.55
+[2020.02.19-12.53.55:778][135]LogWorld: Bringing up level for play took: 0.000766
+[2020.02.19-12.53.55:778][135]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.02.19-12.53.55:780][135]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel −0,671
+[2020.02.19-12.54.06:881][801]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.54.06:881][801]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.54.06:881][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-12.54.06:881][801]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-12.54.06:882][801]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.54.06:882][801]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-12.54.06:882][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-12.54.06:888][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-12.54.06:894][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-12.54.06:936][801]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.54.06:939][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-12.54.06:942][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.02.19-12.54.06:993][804]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.02.19-12.54.38:769][675]BlueprintLog: New page: Compile BP_bomba
+[2020.02.19-12.54.39:054][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.02.19-12.54.44:321][987]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-12.54.44:348][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-12.54.44:348][987]PIE: New page: PIE session: Baselevel (19. feb. 2020 14:54:44)
+[2020.02.19-12.54.44:348][987]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-12.54.44:350][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001840s)
+[2020.02.19-12.54.44:351][987]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.19-12.54.44:351][987]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2020.02.19-12.54.44:351][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.002739s)
+[2020.02.19-12.54.44:394][987]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.02.19-12.54.44:394][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-12.54.44:394][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-12.54.44:394][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-12.54.44:394][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-12.54.44:394][987]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-12.54.44:395][987]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-12.54.44:395][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-12.54.44:395][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-12.54.44:395][987]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-12.54.44:395][987]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-12.54.44:404][987]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-12.54.44:404][987]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.19-12.54.44:404][987]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-12.54.44:404][987]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-12.54.44:404][987]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-12.54.44:404][987]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-12.54.44:404][987]LogAudioMixer: Display: Channel Order:
+[2020.02.19-12.54.44:404][987]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-12.54.44:404][987]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-12.54.44:416][987]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.19-12.54.44:417][987]LogInit: FAudioDevice initialized.
+[2020.02.19-12.54.44:428][987]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.19-12.54.44:430][987]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.19-13.54.44
+[2020.02.19-12.54.44:430][987]LogWorld: Bringing up level for play took: 0.000886
+[2020.02.19-12.54.44:430][987]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.02.19-12.54.44:432][987]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel −0,022
+[2020.02.19-12.54.54:599][597]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.54.54:599][597]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.54.54:599][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-12.54.54:599][597]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-12.54.54:599][597]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.54.54:600][597]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-12.54.54:600][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-12.54.54:608][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-12.54.54:613][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-12.54.54:650][597]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.54.54:653][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-12.54.54:657][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.02.19-12.54.54:708][600]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.19-12.56.24:139][798]BlueprintLog: New page: Compile BP_bomba
+[2020.02.19-12.56.24:419][798]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.02.19-12.56.27:821][989]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-12.56.27:849][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-12.56.27:849][989]PIE: New page: PIE session: Baselevel (19. feb. 2020 14:56:27)
+[2020.02.19-12.56.27:849][989]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-12.56.27:851][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002199s)
+[2020.02.19-12.56.27:852][989]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.19-12.56.27:852][989]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2020.02.19-12.56.27:852][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.003203s)
+[2020.02.19-12.56.27:894][989]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.02.19-12.56.27:894][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-12.56.27:895][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-12.56.27:895][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-12.56.27:895][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-12.56.27:895][989]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-12.56.27:895][989]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-12.56.27:895][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-12.56.27:895][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-12.56.27:895][989]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-12.56.27:895][989]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-12.56.27:904][989]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-12.56.27:904][989]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.19-12.56.27:904][989]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-12.56.27:904][989]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-12.56.27:904][989]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-12.56.27:904][989]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-12.56.27:904][989]LogAudioMixer: Display: Channel Order:
+[2020.02.19-12.56.27:904][989]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-12.56.27:904][989]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-12.56.27:917][989]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.19-12.56.27:919][989]LogInit: FAudioDevice initialized.
+[2020.02.19-12.56.27:929][989]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.19-12.56.27:931][989]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.19-13.56.27
+[2020.02.19-12.56.27:931][989]LogWorld: Bringing up level for play took: 0.000903
+[2020.02.19-12.56.27:931][989]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.02.19-12.56.27:933][989]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel −0,525
+[2020.02.19-12.56.28:730][ 37]PIE: Warning: BP_bomba_C_0.Sphere Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2020.02.19-12.56.32:681][274]PIE: Warning: BP_bomba_C_1.Sphere Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2020.02.19-12.56.33:931][349]PIE: Warning: BP_bomba_C_2.Sphere Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2020.02.19-12.56.36:798][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.56.36:798][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.56.36:799][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-12.56.36:799][521]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-12.56.36:799][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.56.36:799][521]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-12.56.36:799][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-12.56.36:810][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-12.56.36:816][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-12.56.36:858][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.56.36:862][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-12.56.36:866][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.02.19-12.56.36:976][522]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.02.19-12.56.38:992][630]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-12.56.38:996][630]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-12.57.27:071][445]BlueprintLog: New page: Compile BP_bomba
+[2020.02.19-12.57.27:358][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.19-12.57.29:119][543]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-12.57.29:146][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-12.57.29:146][543]PIE: New page: PIE session: Baselevel (19. feb. 2020 14:57:29)
+[2020.02.19-12.57.29:147][543]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-12.57.29:148][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001732s)
+[2020.02.19-12.57.29:149][543]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.19-12.57.29:149][543]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2020.02.19-12.57.29:149][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.002886s)
+[2020.02.19-12.57.29:198][543]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.02.19-12.57.29:199][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-12.57.29:199][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-12.57.29:199][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-12.57.29:199][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-12.57.29:199][543]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-12.57.29:199][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-12.57.29:199][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-12.57.29:199][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-12.57.29:199][543]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-12.57.29:199][543]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-12.57.29:208][543]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-12.57.29:208][543]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.19-12.57.29:208][543]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-12.57.29:208][543]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-12.57.29:208][543]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-12.57.29:208][543]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-12.57.29:208][543]LogAudioMixer: Display: Channel Order:
+[2020.02.19-12.57.29:208][543]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-12.57.29:208][543]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-12.57.29:220][543]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.19-12.57.29:221][543]LogInit: FAudioDevice initialized.
+[2020.02.19-12.57.29:231][543]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.19-12.57.29:233][543]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.19-13.57.29
+[2020.02.19-12.57.29:233][543]LogWorld: Bringing up level for play took: 0.000847
+[2020.02.19-12.57.29:233][543]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.02.19-12.57.29:236][543]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel 0,776
+[2020.02.19-12.57.47:902][663]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.57.47:902][663]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.57.47:902][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-12.57.47:902][663]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-12.57.47:903][663]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.57.47:903][663]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-12.57.47:903][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-12.57.47:911][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-12.57.47:916][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-12.57.47:954][663]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-12.57.47:956][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-12.57.47:960][663]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.02.19-12.57.48:011][666]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.02.19-12.57.49:717][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Baselevel" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Level/Baselevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.19-12.57.49:763][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.02.19-12.57.49:788][763]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/Baselevel8C91F51E4CCE3468C2EC008EEDF2B03A.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Level/Baselevel.umap'
+[2020.02.19-12.57.49:832][763]AssetCheck: New page: Asset Save: Baselevel
+[2020.02.19-12.57.49:832][763]LogContentValidation: Display: Validating World /Game/Level/Baselevel.Baselevel
+[2020.02.19-12.57.58:903][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.02.19-12.58.00:065][901]LogSlate: Window 'Save Content' being destroyed
+[2020.02.19-12.58.00:111][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_bomba" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_bomba.uasset" SILENT=true
+[2020.02.19-12.58.00:161][901]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_bomba5E08D50B4CAE45CF279775A1D8FEE686.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_bomba.uasset'
+[2020.02.19-12.58.00:176][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Character" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset" SILENT=true
+[2020.02.19-12.58.00:218][901]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_CharacterFA3C9A8849B7303469F4E19C117C1B02.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset'
+[2020.02.19-12.58.00:238][901]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.19-12.58.00:238][901]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_bomba.BP_bomba
+[2020.02.19-12.58.00:238][901]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Character.BP_Character
