@@ -1671,3 +1671,503 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.19-12.58.00:238][901]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.19-12.58.00:238][901]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_bomba.BP_bomba
 [2020.02.19-12.58.00:238][901]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Character.BP_Character
+[2020.02.19-13.00.01:962][407]LogSlate: Window 'Delete Variable' being destroyed
+[2020.02.19-13.00.28:515][975]BlueprintLog: New page: Compile BP_explosion
+[2020.02.19-13.00.28:527][975]LogBlueprint: Error: [Compiler BP_explosion] The property associated with  Range  could not be found in '/Game/Blueprints/BP_explosion.BP_explosion_C'
+[2020.02.19-13.00.28:816][975]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.02.19-13.00.43:765][827]BlueprintLog: New page: Compile BP_explosion
+[2020.02.19-13.00.43:777][827]LogBlueprint: Error: [Compiler BP_explosion] The property associated with  Range  could not be found in '/Game/Blueprints/BP_explosion.BP_explosion_C'
+[2020.02.19-13.00.44:062][827]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.02.19-13.01.05:511][ 76]BlueprintLog: New page: Compile BP_Character
+[2020.02.19-13.01.05:806][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.02.19-13.01.07:011][142]BlueprintLog: New page: Compile BP_Character
+[2020.02.19-13.01.07:304][142]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.02.19-13.01.07:874][168]BlueprintLog: New page: Compile BP_bomba
+[2020.02.19-13.01.08:164][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.02.19-13.01.09:110][217]BlueprintLog: New page: Compile BP_explosion
+[2020.02.19-13.01.09:402][217]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.02.19-13.01.14:994][534]BlueprintLog: New page: Compile BP_explosion
+[2020.02.19-13.01.15:279][534]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.02.19-13.01.22:274][935]BlueprintLog: New page: Compile BP_explosion
+[2020.02.19-13.01.22:560][935]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.02.19-13.01.32:058][465]BlueprintLog: New page: Compile BP_Character
+[2020.02.19-13.01.32:370][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.02.19-13.01.37:143][743]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-13.01.37:172][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-13.01.37:172][743]PIE: New page: PIE session: Baselevel (19. feb. 2020 15:01:37)
+[2020.02.19-13.01.37:172][743]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-13.01.37:174][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001978s)
+[2020.02.19-13.01.37:175][743]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.19-13.01.37:175][743]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2020.02.19-13.01.37:175][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.003254s)
+[2020.02.19-13.01.37:219][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.02.19-13.01.37:220][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-13.01.37:220][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-13.01.37:220][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-13.01.37:220][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-13.01.37:220][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-13.01.37:220][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-13.01.37:220][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-13.01.37:220][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-13.01.37:220][743]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-13.01.37:221][743]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-13.01.37:229][743]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-13.01.37:229][743]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.19-13.01.37:229][743]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-13.01.37:229][743]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-13.01.37:229][743]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-13.01.37:229][743]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-13.01.37:229][743]LogAudioMixer: Display: Channel Order:
+[2020.02.19-13.01.37:229][743]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-13.01.37:229][743]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-13.01.37:242][743]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.19-13.01.37:243][743]LogInit: FAudioDevice initialized.
+[2020.02.19-13.01.37:252][743]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.19-13.01.37:254][743]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.19-14.01.37
+[2020.02.19-13.01.37:254][743]LogWorld: Bringing up level for play took: 0.000912
+[2020.02.19-13.01.37:254][743]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.02.19-13.01.37:257][743]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel 0,792
+[2020.02.19-13.01.41:470][994]LogScript: Warning: Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0247
+[2020.02.19-13.01.41:470][994]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.41:470][994]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:025C
+[2020.02.19-13.01.41:470][994]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.41:470][994]LogScript: Warning: Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:056B
+[2020.02.19-13.01.41:470][994]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.41:470][994]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0580
+[2020.02.19-13.01.41:470][994]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.41:470][994]LogScript: Warning: Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0247
+[2020.02.19-13.01.41:470][994]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.41:470][994]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:025C
+[2020.02.19-13.01.41:470][994]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.41:470][994]LogScript: Warning: Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:056B
+[2020.02.19-13.01.41:470][994]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.41:470][994]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0580
+[2020.02.19-13.01.41:470][994]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.41:471][994]LogScript: Warning: Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0247
+[2020.02.19-13.01.41:471][994]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.41:471][994]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:025C
+[2020.02.19-13.01.41:471][994]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.41:471][994]LogScript: Warning: Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:056B
+[2020.02.19-13.01.41:471][994]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.41:471][994]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0580
+[2020.02.19-13.01.41:471][994]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.41:471][994]LogScript: Warning: Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0247
+[2020.02.19-13.01.41:471][994]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.41:471][994]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:025C
+[2020.02.19-13.01.41:471][994]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.41:471][994]LogScript: Warning: Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:056B
+[2020.02.19-13.01.41:471][994]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.41:471][994]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0580
+[2020.02.19-13.01.41:471][994]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.46:303][284]LogScript: Warning: Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0247
+[2020.02.19-13.01.46:303][284]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.46:303][284]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:025C
+[2020.02.19-13.01.46:303][284]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.46:303][284]LogScript: Warning: Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:056B
+[2020.02.19-13.01.46:303][284]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.46:303][284]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0580
+[2020.02.19-13.01.46:303][284]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.46:303][284]LogScript: Warning: Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0247
+[2020.02.19-13.01.46:303][284]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.46:304][284]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:025C
+[2020.02.19-13.01.46:304][284]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.46:304][284]LogScript: Warning: Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:056B
+[2020.02.19-13.01.46:304][284]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.46:304][284]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0580
+[2020.02.19-13.01.46:304][284]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.46:304][284]LogScript: Warning: Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0247
+[2020.02.19-13.01.46:304][284]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.46:304][284]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:025C
+[2020.02.19-13.01.46:304][284]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.46:304][284]LogScript: Warning: Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:056B
+[2020.02.19-13.01.46:304][284]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.46:304][284]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0580
+[2020.02.19-13.01.46:304][284]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.46:304][284]LogScript: Warning: Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0247
+[2020.02.19-13.01.46:304][284]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.46:304][284]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:025C
+[2020.02.19-13.01.46:304][284]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.01.46:304][284]LogScript: Warning: Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:056B
+[2020.02.19-13.01.46:305][284]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_1 via property bomba, but BP_bomba_C_1 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.46:305][284]LogScript: Warning: Accessed None
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_1
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0580
+[2020.02.19-13.01.46:305][284]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.01.50:603][542]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.01.50:604][542]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.01.50:604][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-13.01.50:604][542]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-13.01.50:604][542]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.01.50:604][542]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-13.01.50:604][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-13.01.50:615][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-13.01.50:621][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-13.01.50:667][542]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.01.50:670][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-13.01.50:675][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.02.19-13.01.50:810][543]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.19-13.02.36:234][206]BlueprintLog: New page: Compile BP_explosion
+[2020.02.19-13.02.36:517][206]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.02.19-13.02.38:914][339]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-13.02.38:919][339]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-13.02.39:513][375]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-13.02.39:540][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-13.02.39:541][375]PIE: New page: PIE session: Baselevel (19. feb. 2020 15:02:39)
+[2020.02.19-13.02.39:541][375]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-13.02.39:542][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001724s)
+[2020.02.19-13.02.39:543][375]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.19-13.02.39:543][375]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2020.02.19-13.02.39:543][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.002782s)
+[2020.02.19-13.02.39:587][375]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.02.19-13.02.39:587][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-13.02.39:587][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-13.02.39:587][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-13.02.39:587][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-13.02.39:588][375]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-13.02.39:588][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-13.02.39:588][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-13.02.39:588][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-13.02.39:588][375]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-13.02.39:588][375]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-13.02.39:598][375]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-13.02.39:598][375]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.19-13.02.39:598][375]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-13.02.39:598][375]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-13.02.39:598][375]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-13.02.39:598][375]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-13.02.39:598][375]LogAudioMixer: Display: Channel Order:
+[2020.02.19-13.02.39:598][375]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-13.02.39:598][375]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-13.02.39:609][375]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.19-13.02.39:610][375]LogInit: FAudioDevice initialized.
+[2020.02.19-13.02.39:619][375]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.19-13.02.39:621][375]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.19-14.02.39
+[2020.02.19-13.02.39:621][375]LogWorld: Bringing up level for play took: 0.001042
+[2020.02.19-13.02.39:621][375]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.02.19-13.02.39:625][375]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel −0,841
+[2020.02.19-13.02.45:305][716]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.02.45:305][716]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.02.45:306][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-13.02.45:306][716]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-13.02.45:306][716]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.02.45:306][716]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-13.02.45:306][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-13.02.45:314][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-13.02.45:319][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-13.02.45:362][716]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.02.45:366][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-13.02.45:370][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.19-13.02.45:421][719]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.02.19-13.02.53:320][169]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::SelectFloat' [The specified module could not be found.]
+[2020.02.19-13.03.00:397][578]BlueprintLog: New page: Compile BP_explosion
+[2020.02.19-13.03.00:680][578]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.02.19-13.03.02:693][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.19-13.03.02:894][703]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-13.03.02:922][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-13.03.02:922][703]PIE: New page: PIE session: Baselevel (19. feb. 2020 15:03:02)
+[2020.02.19-13.03.02:922][703]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-13.03.02:924][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001899s)
+[2020.02.19-13.03.02:925][703]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.19-13.03.02:925][703]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2020.02.19-13.03.02:925][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.003040s)
+[2020.02.19-13.03.02:968][703]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.02.19-13.03.02:969][703]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-13.03.02:969][703]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-13.03.02:969][703]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-13.03.02:969][703]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-13.03.02:969][703]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-13.03.02:969][703]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-13.03.02:969][703]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-13.03.02:969][703]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-13.03.02:970][703]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-13.03.02:970][703]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-13.03.02:979][703]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-13.03.02:979][703]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.19-13.03.02:979][703]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-13.03.02:979][703]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-13.03.02:979][703]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-13.03.02:979][703]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-13.03.02:979][703]LogAudioMixer: Display: Channel Order:
+[2020.02.19-13.03.02:979][703]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-13.03.02:979][703]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-13.03.02:992][703]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.19-13.03.02:993][703]LogInit: FAudioDevice initialized.
+[2020.02.19-13.03.02:997][703]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.19-13.03.02:999][703]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.19-14.03.02
+[2020.02.19-13.03.02:999][703]LogWorld: Bringing up level for play took: 0.000803
+[2020.02.19-13.03.03:000][703]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.02.19-13.03.03:002][703]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel 0,537
+[2020.02.19-13.03.08:683][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.03.08:683][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.03.08:683][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-13.03.08:683][ 44]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-13.03.08:683][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.03.08:684][ 44]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-13.03.08:684][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-13.03.08:691][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-13.03.08:696][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-13.03.08:739][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.03.08:742][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-13.03.08:746][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.02.19-13.03.08:797][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.02.19-13.03.13:745][331]BlueprintLog: New page: Compile BP_Character
+[2020.02.19-13.03.14:030][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.02.19-13.04.01:375][101]BlueprintLog: New page: Compile BP_bomba
+[2020.02.19-13.04.01:663][101]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.02.19-13.04.34:668][ 23]BlueprintLog: New page: Compile BP_explosion
+[2020.02.19-13.04.34:961][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.02.19-13.04.36:672][122]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-13.04.36:701][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-13.04.36:701][122]PIE: New page: PIE session: Baselevel (19. feb. 2020 15:04:36)
+[2020.02.19-13.04.36:701][122]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-13.04.36:703][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001828s)
+[2020.02.19-13.04.36:704][122]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.19-13.04.36:704][122]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2020.02.19-13.04.36:704][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.002851s)
+[2020.02.19-13.04.36:746][122]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.02.19-13.04.36:747][122]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-13.04.36:747][122]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-13.04.36:747][122]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-13.04.36:747][122]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-13.04.36:747][122]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-13.04.36:747][122]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-13.04.36:747][122]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-13.04.36:747][122]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-13.04.36:747][122]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-13.04.36:747][122]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-13.04.36:756][122]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-13.04.36:756][122]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.19-13.04.36:756][122]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-13.04.36:756][122]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-13.04.36:756][122]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-13.04.36:756][122]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-13.04.36:756][122]LogAudioMixer: Display: Channel Order:
+[2020.02.19-13.04.36:756][122]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-13.04.36:756][122]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-13.04.36:768][122]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.19-13.04.36:770][122]LogInit: FAudioDevice initialized.
+[2020.02.19-13.04.36:778][122]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.19-13.04.36:780][122]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.19-14.04.36
+[2020.02.19-13.04.36:780][122]LogWorld: Bringing up level for play took: 0.000854
+[2020.02.19-13.04.36:780][122]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.02.19-13.04.36:783][122]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel 0,316
+[2020.02.19-13.04.40:714][358]LogBlueprintUserMessages: [BP_explosion_C_0] 300.0
+[2020.02.19-13.04.42:280][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.04.42:280][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.04.42:281][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-13.04.42:281][452]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-13.04.42:281][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.04.42:281][452]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-13.04.42:281][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-13.04.42:290][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-13.04.42:295][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-13.04.42:338][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.04.42:342][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-13.04.42:346][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.02.19-13.04.42:380][454]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.02.19-13.05.02:882][636]BlueprintLog: New page: Compile BP_explosion
+[2020.02.19-13.05.03:166][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.02.19-13.05.05:833][792]BlueprintLog: New page: Compile BP_bomba
+[2020.02.19-13.05.06:124][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.02.19-13.05.06:447][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_bomba" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_bomba.uasset" SILENT=true
+[2020.02.19-13.05.06:492][805]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_bomba2BE2CF6346F0BF37EEE78AB9FCD60852.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_bomba.uasset'
+[2020.02.19-13.05.06:509][805]AssetCheck: New page: Asset Save: BP_bomba
+[2020.02.19-13.05.06:509][805]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_bomba.BP_bomba
+[2020.02.19-13.05.07:695][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_explosion" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_explosion.uasset" SILENT=true
+[2020.02.19-13.05.07:743][862]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_explosion7DDA6C0E492F59AB18DD76AFC30F777A.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_explosion.uasset'
+[2020.02.19-13.05.07:761][862]AssetCheck: New page: Asset Save: BP_explosion
+[2020.02.19-13.05.07:761][862]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_explosion.BP_explosion
+[2020.02.19-13.05.09:402][960]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-13.05.09:427][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-13.05.09:427][960]PIE: New page: PIE session: Baselevel (19. feb. 2020 15:05:09)
+[2020.02.19-13.05.09:427][960]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-13.05.09:429][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002028s)
+[2020.02.19-13.05.09:430][960]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.19-13.05.09:431][960]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2020.02.19-13.05.09:431][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.003626s)
+[2020.02.19-13.05.09:474][960]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.02.19-13.05.09:475][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-13.05.09:475][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-13.05.09:475][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-13.05.09:475][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-13.05.09:475][960]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-13.05.09:475][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-13.05.09:475][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-13.05.09:475][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-13.05.09:475][960]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-13.05.09:475][960]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-13.05.09:484][960]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-13.05.09:484][960]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.19-13.05.09:484][960]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-13.05.09:484][960]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-13.05.09:484][960]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-13.05.09:484][960]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-13.05.09:484][960]LogAudioMixer: Display: Channel Order:
+[2020.02.19-13.05.09:484][960]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-13.05.09:484][960]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-13.05.09:496][960]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.19-13.05.09:497][960]LogInit: FAudioDevice initialized.
+[2020.02.19-13.05.09:503][960]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.19-13.05.09:505][960]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.19-14.05.09
+[2020.02.19-13.05.09:505][960]LogWorld: Bringing up level for play took: 0.000946
+[2020.02.19-13.05.09:505][960]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.02.19-13.05.09:507][960]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel 1,041
+[2020.02.19-13.05.13:389][193]LogScript: Warning: Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill
+	BP_explosion_C /Game/Level/UEDPIE_0_Baselevel.Baselevel:PersistentLevel.BP_explosion_C_0
+	Function /Game/Blueprints/BP_explosion.BP_explosion_C:ExecuteUbergraph_BP_explosion:0246
+[2020.02.19-13.05.13:389][193]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.05.13:389][193]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.05.13:389][193]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.05.13:389][193]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.05.13:390][193]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.05.13:390][193]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.05.13:390][193]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  BoxTraceByChannel
+[2020.02.19-13.05.13:390][193]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_bomba_C_0 via property bomba, but BP_bomba_C_0 is pending kill". Blueprint:  BP_explosion Function:  Execute Ubergraph BP Explosion Graph:  EventGraph Node:  Set Relative Scale 3D
+[2020.02.19-13.05.16:090][355]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.05.16:090][355]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.05.16:090][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-13.05.16:090][355]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-13.05.16:090][355]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.05.16:090][355]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-13.05.16:090][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-13.05.16:098][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-13.05.16:103][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-13.05.16:147][355]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.05.16:150][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-13.05.16:154][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.02.19-13.05.16:273][356]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.02.19-13.07.14:650][298]BlueprintLog: New page: Compile BP_bomba
+[2020.02.19-13.07.14:942][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.02.19-13.07.31:533][271]BlueprintLog: New page: Compile BP_bomba
+[2020.02.19-13.07.31:827][271]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2020.02.19-13.08.44:697][491]BlueprintLog: New page: Compile BP_explosion
+[2020.02.19-13.08.45:000][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.02.19-13.08.46:495][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_explosion" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_explosion.uasset" SILENT=true
+[2020.02.19-13.08.46:541][574]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_explosion47EAC7D04EBD1B3FCE19ACA14C95DEE4.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_explosion.uasset'
+[2020.02.19-13.08.46:559][574]AssetCheck: New page: Asset Save: BP_explosion
+[2020.02.19-13.08.46:559][574]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_explosion.BP_explosion
+[2020.02.19-13.08.47:377][621]BlueprintLog: New page: Compile BP_bomba
+[2020.02.19-13.08.47:673][621]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.02.19-13.08.47:906][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_bomba" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_bomba.uasset" SILENT=true
+[2020.02.19-13.08.47:942][629]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_bombaBECD69AB47D94FD78B873BB5073D7089.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_bomba.uasset'
+[2020.02.19-13.08.47:957][629]AssetCheck: New page: Asset Save: BP_bomba
+[2020.02.19-13.08.47:957][629]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_bomba.BP_bomba
+[2020.02.19-13.08.49:126][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Character" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset" SILENT=true
+[2020.02.19-13.08.49:168][690]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BP_CharacterBE3CC49A47FE455CC80EC1B7F24ED487.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Blueprints/BP_Character.uasset'
+[2020.02.19-13.08.49:187][690]AssetCheck: New page: Asset Save: BP_Character
+[2020.02.19-13.08.49:187][690]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Character.BP_Character
+[2020.02.19-13.08.49:511][708]BlueprintLog: New page: Compile BP_Character
+[2020.02.19-13.08.49:812][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.02.19-13.08.52:799][870]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-13.08.52:803][870]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-13.08.53:306][900]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-13.08.53:339][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-13.08.53:339][900]PIE: New page: PIE session: Baselevel (19. feb. 2020 15:08:53)
+[2020.02.19-13.08.53:339][900]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-13.08.53:341][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001986s)
+[2020.02.19-13.08.53:342][900]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.19-13.08.53:342][900]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2020.02.19-13.08.53:342][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.003023s)
+[2020.02.19-13.08.53:387][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.02.19-13.08.53:388][900]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-13.08.53:388][900]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-13.08.53:388][900]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-13.08.53:388][900]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-13.08.53:388][900]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-13.08.53:388][900]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-13.08.53:388][900]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-13.08.53:388][900]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-13.08.53:389][900]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-13.08.53:389][900]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-13.08.53:398][900]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-13.08.53:398][900]LogAudioMixer: Display: Name: Slušalke (Conexant ISST Audio)
+[2020.02.19-13.08.53:398][900]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-13.08.53:398][900]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-13.08.53:398][900]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-13.08.53:398][900]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-13.08.53:398][900]LogAudioMixer: Display: Channel Order:
+[2020.02.19-13.08.53:398][900]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-13.08.53:398][900]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-13.08.53:411][900]LogAudioMixer: Display: Using Audio Device Slušalke (Conexant ISST Audio)
+[2020.02.19-13.08.53:413][900]LogInit: FAudioDevice initialized.
+[2020.02.19-13.08.53:419][900]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.19-13.08.53:421][900]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.19-14.08.53
+[2020.02.19-13.08.53:421][900]LogWorld: Bringing up level for play took: 0.000829
+[2020.02.19-13.08.53:422][900]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.02.19-13.08.53:425][900]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel 0,951
+[2020.02.19-13.09.12:699][ 54]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.09.12:699][ 54]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.09.12:699][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-13.09.12:699][ 54]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.19-13.09.12:699][ 54]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.09.12:699][ 54]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-13.09.12:700][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-13.09.12:710][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-13.09.12:717][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-13.09.12:756][ 54]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-13.09.12:759][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-13.09.12:763][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.02.19-13.09.12:800][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.19-13.09.17:161][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
