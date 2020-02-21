@@ -1,4 +1,4 @@
-﻿Log file open, 02/21/20 15:01:30
+﻿Log file open, 02/21/20 14:56:02
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -14,7 +14,7 @@ LogPakFile: Display: Found Pak file ../../../FishBaloon/Content/Paks/FishBaloon-
 LogPakFile: Display: Mounting pak file ../../../FishBaloon/Content/Paks/FishBaloon-WindowsNoEditor.pak.
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.042215
+LogStats: Stats thread started at 0.044251
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Error: Unable to load plugin 'AdvancedSessions'. Aborting.
@@ -36,4 +36,4 @@ LogModuleManager: Shutting down and abandoning module SandboxFile (6)
 LogModuleManager: Shutting down and abandoning module PakFile (4)
 LogModuleManager: Shutting down and abandoning module RSA (3)
 LogExit: Exiting.
-Log file closed, 02/21/20 15:01:30
+Log file closed, 02/21/20 14:56:02
