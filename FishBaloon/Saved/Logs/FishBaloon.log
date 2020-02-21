@@ -1045,3 +1045,257 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.21-09.26.02:610][549]LogContentValidation: Display: Validating Material /Game/Mesh/Body.Body
 [2020.02.21-09.26.02:610][549]LogContentValidation: Display: Validating Material /Game/Mesh/Eyes.Eyes
 [2020.02.21-09.26.02:610][549]LogContentValidation: Display: Validating Material /Game/Mesh/Iris.Iris
+[2020.02.21-09.34.54:933][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.02.21-09.35.06:094][291]LogSlate: Window 'Save Content' being destroyed
+[2020.02.21-09.35.27:170][616]LogEditorFactories: Performing atomic reimport of [C:/Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Fish.fbx]
+[2020.02.21-09.35.27:214][616]LogFbx: Loading FBX Scene from C:/Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Fish.fbx
+[2020.02.21-09.35.27:223][616]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.21-09.35.27:238][616]LogFbx: Display: Triangulating static mesh Mball.003
+[2020.02.21-09.35.27:477][616]LogStaticMesh: Building static mesh Fish...
+[2020.02.21-09.35.27:529][616]LogStaticMesh: Built static mesh [0.05s] /Game/Mesh/Fish.Fish
+[2020.02.21-09.35.27:577][616]LogEditorFactories: -- imported successfully
+[2020.02.21-09.35.27:581][616]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.21-09.35.30:354][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.21-09.35.31:367][673]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.21-09.35.31:629][673]LogSlate: Window 'Fish' being destroyed
+[2020.02.21-09.35.31:724][673]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.02.21-09.35.31:724][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.21-09.35.31:759][673]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Mesh/Fish.Fish
+[2020.02.21-09.35.32:386][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.02.21-09.35.32:420][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.02.21-09.35.32:445][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.21-09.35.33:564][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.02.21-09.35.34:582][703]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.21-09.35.34:724][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.02.21-09.35.34:771][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.02.21-09.35.34:800][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.02.21-09.35.38:362][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.02.21-09.35.39:401][821]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.21-09.35.39:539][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.02.21-09.35.39:569][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.02.21-09.35.39:598][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.02.21-09.35.39:638][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.02.21-09.35.39:666][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.02.21-09.35.44:181][845]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/AndrejxD/Desktop/Fish.fbx)
+[2020.02.21-09.35.44:205][845]LogFbx: Loading FBX Scene from ../../../../../../Users/AndrejxD/Desktop/Fish.fbx
+[2020.02.21-09.35.44:226][845]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.21-09.35.46:826][845]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.21-09.35.46:861][845]LogMaterial: Display: Missing cached shader map for material Body, compiling. 
+[2020.02.21-09.35.46:879][845]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.02.21-09.35.46:879][845]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.21-09.35.46:879][845]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.21-09.35.46:879][845]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.21-09.35.46:888][845]LogMaterial: Display: Missing cached shader map for material Eyes, compiling. 
+[2020.02.21-09.35.46:927][845]LogMaterial: Display: Missing cached shader map for material Iris, compiling. 
+[2020.02.21-09.35.46:981][845]LogMaterial: Display: Missing cached shader map for material BLK, compiling. 
+[2020.02.21-09.35.47:006][845]LogFbx: Display: Triangulating static mesh Mball.003
+[2020.02.21-09.35.47:402][845]LogStaticMesh: Building static mesh Fish...
+[2020.02.21-09.35.47:510][845]LogStaticMesh: Built static mesh [0.11s] /Game/Mesh/Fish.Fish
+[2020.02.21-09.35.47:589][845]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.21-09.35.48:636][875]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2020.02.21-09.35.49:216][909]LogSlate: Window 'Message Log' being destroyed
+[2020.02.21-09.35.49:227][909]LogSlate: Window 'Message Log' being destroyed
+[2020.02.21-09.35.49:631][933]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.02.21-09.35.50:052][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.02.21-09.35.50:311][951]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.02.21-09.35.51:108][971]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mesh/Balun.Balun
+[2020.02.21-09.35.51:117][971]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2020.02.21-09.35.51:134][971]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.21-09.35.51:136][971]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2020.02.21-09.35.51:263][971]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.21-09.35.51:899][971]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.21-09.35.52:981][995]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.02.21-09.35.54:965][ 47]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.02.21-09.35.55:257][ 56]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:88).
+[2020.02.21-09.35.55:446][ 60]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.21-09.35.56:116][ 77]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.21-09.35.56:714][ 95]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.21-09.35.57:533][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.21-09.35.57:863][120]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.21-09.35.58:745][138]LogMaterial: Display: Missing cached shader map for material green, compiling. 
+[2020.02.21-09.35.58:771][138]LogMaterial: Display: Material /Game/Materials/green.green needed to have new flag set bUsedWithSkeletalMesh !
+[2020.02.21-09.35.58:778][138]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.02.21-09.35.58:778][138]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.21-09.35.58:778][138]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.21-09.35.58:778][138]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.21-09.35.58:778][138]LogMaterial: Display: Missing cached shader map for material green, compiling. 
+[2020.02.21-09.36.00:790][201]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2020.02.21-09.36.01:969][243]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.02.21-09.36.02:369][253]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.02.21-09.36.02:815][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.02.21-09.36.03:052][270]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.02.21-09.36.03:813][270]LogSlate: Window 'Save Content' being destroyed
+[2020.02.21-09.36.07:728][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.02.21-09.36.07:728][270]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.21-09.36.07:728][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.21-09.36.07:728][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.02.21-09.36.07:728][270]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.21-09.36.07:728][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.21-09.36.07:784][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/green" FILE="../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Materials/green.uasset" SILENT=true
+[2020.02.21-09.36.07:837][270]LogSavePackage: Moving '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Saved/green3777197D4396644535CBA59BF71C4098.tmp' to '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Materials/green.uasset'
+[2020.02.21-09.36.07:881][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Balun" FILE="../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Balun.uasset" SILENT=true
+[2020.02.21-09.36.08:020][270]LogSavePackage: Moving '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Saved/Balun485346FF4820CAC0ECAA63A4E79098C0.tmp' to '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Balun.uasset'
+[2020.02.21-09.36.08:063][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/BLK" FILE="../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/BLK.uasset" SILENT=true
+[2020.02.21-09.36.08:081][270]LogSavePackage: Moving '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Saved/BLK36C128BB49A58C472DA82FA59E8E5BED.tmp' to '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/BLK.uasset'
+[2020.02.21-09.36.08:120][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Body" FILE="../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Body.uasset" SILENT=true
+[2020.02.21-09.36.08:163][270]LogSavePackage: Moving '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Saved/Body331C66314ACB257E15D588AD219315B0.tmp' to '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Body.uasset'
+[2020.02.21-09.36.08:203][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Eyes" FILE="../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Eyes.uasset" SILENT=true
+[2020.02.21-09.36.08:219][270]LogSavePackage: Moving '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Saved/EyesF0FED09A47725B34BC6EB38630D22C71.tmp' to '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Eyes.uasset'
+[2020.02.21-09.36.08:260][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Fish" FILE="../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Fish.uasset" SILENT=true
+[2020.02.21-09.36.08:312][270]LogSavePackage: Moving '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Saved/FishC71F4A6B4B7EE86C4FD1A4B53AED0018.tmp' to '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Fish.uasset'
+[2020.02.21-09.36.08:358][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Iris" FILE="../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Iris.uasset" SILENT=true
+[2020.02.21-09.36.08:379][270]LogSavePackage: Moving '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Saved/Iris2AB189C44170EF79A2733BAD2A2C0181.tmp' to '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Iris.uasset'
+[2020.02.21-09.36.08:413][270]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.21-09.36.08:413][270]LogContentValidation: Display: Validating Material /Game/Materials/green.green
+[2020.02.21-09.36.08:413][270]LogContentValidation: Display: Validating SkeletalMesh /Game/Mesh/Balun.Balun
+[2020.02.21-09.36.08:413][270]LogContentValidation: Display: Validating Material /Game/Mesh/BLK.BLK
+[2020.02.21-09.36.08:413][270]LogContentValidation: Display: Validating Material /Game/Mesh/Body.Body
+[2020.02.21-09.36.08:413][270]LogContentValidation: Display: Validating Material /Game/Mesh/Eyes.Eyes
+[2020.02.21-09.36.08:413][270]LogContentValidation: Display: Validating StaticMesh /Game/Mesh/Fish.Fish
+[2020.02.21-09.36.08:413][270]LogContentValidation: Display: Validating Material /Game/Mesh/Iris.Iris
+[2020.02.21-09.36.20:737][638]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_bomba.BP_bomba
+[2020.02.21-09.36.20:969][638]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 121 classes and 0 folders.
+[2020.02.21-09.36.22:118][638]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.21-09.36.23:280][692]BlueprintLog: New page: Compile BP_bomba
+[2020.02.21-09.36.23:570][692]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2020.02.21-09.36.41:575][569]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.21-09.36.43:813][680]BlueprintLog: New page: Compile BP_bomba
+[2020.02.21-09.36.44:150][680]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2020.02.21-09.36.48:959][893]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2020.02.21-09.37.16:937][ 30]BlueprintLog: New page: Compile BP_bomba
+[2020.02.21-09.37.16:958][ 30]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.16:959][ 30]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.16:959][ 30]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.16:959][ 30]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.16:959][ 30]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.16:959][ 30]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.16:959][ 30]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.16:959][ 30]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.16:959][ 30]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.16:959][ 30]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.17:238][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   7.42ms
+[2020.02.21-09.37.34:864][923]BlueprintLog: New page: Compile BP_bomba
+[2020.02.21-09.37.34:882][923]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.34:882][923]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.34:882][923]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.34:883][923]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.34:883][923]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.37.35:230][923]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.02.21-09.37.41:064][124]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Mesh/Fish.Fish
+[2020.02.21-09.37.41:532][125]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.02.21-09.38.03:635][611]BlueprintLog: New page: Compile BP_bomba
+[2020.02.21-09.38.03:649][611]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.38.03:649][611]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.38.03:649][611]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.38.03:650][611]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.38.03:936][611]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2020.02.21-09.38.14:769][844]BlueprintLog: New page: Compile BP_bomba
+[2020.02.21-09.38.14:793][844]LogBlueprint: Error: [Compiler BP_bomba] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.02.21-09.38.15:068][844]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2020.02.21-09.38.22:864][ 11]BlueprintLog: New page: Compile BP_bomba
+[2020.02.21-09.38.23:156][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2020.02.21-09.38.23:860][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_bomba" FILE="../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Blueprints/BP_bomba.uasset" SILENT=true
+[2020.02.21-09.38.23:940][ 21]LogSavePackage: Moving '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Saved/BP_bomba90D223624B4AA424EB8ECD81B36DEF7B.tmp' to '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Blueprints/BP_bomba.uasset'
+[2020.02.21-09.38.23:963][ 21]AssetCheck: New page: Asset Save: BP_bomba
+[2020.02.21-09.38.23:963][ 21]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_bomba.BP_bomba
+[2020.02.21-09.38.29:753][105]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.21-09.38.29:778][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.21-09.38.29:778][105]PIE: New page: PIE session: Baselevel (21. feb. 2020 11:38:29)
+[2020.02.21-09.38.29:778][105]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Baselevel
+[2020.02.21-09.38.29:788][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009189s)
+[2020.02.21-09.38.29:789][105]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.21-09.38.29:789][105]LogPlayLevel: PIE: World Init took: (0.001435s)
+[2020.02.21-09.38.29:789][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Baselevel.Baselevel to /Game/Level/UEDPIE_0_Baselevel.Baselevel (0.010818s)
+[2020.02.21-09.38.29:843][105]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.02.21-09.38.29:844][105]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.21-09.38.29:844][105]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.21-09.38.29:844][105]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.21-09.38.29:844][105]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.21-09.38.29:844][105]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.21-09.38.29:844][105]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.21-09.38.29:844][105]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.21-09.38.29:844][105]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.21-09.38.29:845][105]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.21-09.38.29:845][105]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.21-09.38.29:849][105]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.21-09.38.29:849][105]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.02.21-09.38.29:849][105]LogAudioMixer: Display: Is Default: Yes
+[2020.02.21-09.38.29:849][105]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.21-09.38.29:849][105]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.21-09.38.29:849][105]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.21-09.38.29:849][105]LogAudioMixer: Display: Channel Order:
+[2020.02.21-09.38.29:849][105]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.21-09.38.29:849][105]LogAudioMixer: Display: 1: FrontRight
+[2020.02.21-09.38.29:893][105]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.02.21-09.38.29:895][105]LogInit: FAudioDevice initialized.
+[2020.02.21-09.38.29:911][105]LogLoad: Game class is 'GM_BASE_C'
+[2020.02.21-09.38.29:915][105]LogWorld: Bringing World /Game/Level/UEDPIE_0_Baselevel.Baselevel up for play (max tick rate 60) at 2020.02.21-10.38.29
+[2020.02.21-09.38.29:915][105]LogWorld: Bringing up level for play took: 0.003403
+[2020.02.21-09.38.29:916][105]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.02.21-09.38.29:963][105]LogBlueprintUserMessages: [BP_pickup_manager_2] 2
+[2020.02.21-09.38.29:963][105]LogBlueprintUserMessages: [BP_pickup_manager_2] 2
+[2020.02.21-09.38.29:963][105]LogBlueprintUserMessages: [BP_pickup_manager_2] 1
+[2020.02.21-09.38.29:963][105]LogBlueprintUserMessages: [BP_pickup_manager_2] 4
+[2020.02.21-09.38.29:963][105]LogBlueprintUserMessages: [BP_pickup_manager_2] 4
+[2020.02.21-09.38.29:963][105]LogBlueprintUserMessages: [BP_pickup_manager_2] 4
+[2020.02.21-09.38.29:963][105]LogBlueprintUserMessages: [BP_pickup_manager_2] 4
+[2020.02.21-09.38.29:964][105]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Baselevel 0,035
+[2020.02.21-09.38.37:895][577]LogBlueprintUserMessages: [BP_terrain_C_2] Hello
+[2020.02.21-09.38.58:913][838]LogBlueprintUserMessages: [BP_terrain_C_45] Hello
+[2020.02.21-09.39.32:064][827]LogBlueprintUserMessages: [BP_terrain_C_32] Hello
+[2020.02.21-09.39.45:890][654]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.21-09.39.45:890][654]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.21-09.39.45:890][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.21-09.39.45:890][654]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Baselevel
+[2020.02.21-09.39.45:890][654]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.21-09.39.45:891][654]LogBlueprintUserMessages: [BP_terrain5] Hello
+[2020.02.21-09.39.45:891][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:891][654]LogBlueprintUserMessages: [BP_terrain_C_14] Hello
+[2020.02.21-09.39.45:891][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:891][654]LogBlueprintUserMessages: [BP_terrain_C_23] Hello
+[2020.02.21-09.39.45:891][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:891][654]LogBlueprintUserMessages: [BP_terrain_C_42] Hello
+[2020.02.21-09.39.45:891][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:891][654]LogBlueprintUserMessages: [BP_terrain_C_49] Hello
+[2020.02.21-09.39.45:891][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:891][654]LogBlueprintUserMessages: [BP_terrain_C_55] Hello
+[2020.02.21-09.39.45:891][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:891][654]LogBlueprintUserMessages: [BP_terrain_C_57] Hello
+[2020.02.21-09.39.45:891][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:891][654]LogBlueprintUserMessages: [BP_terrain_C_69] Hello
+[2020.02.21-09.39.45:891][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:892][654]LogBlueprintUserMessages: [BP_terrain_C_85] Hello
+[2020.02.21-09.39.45:892][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:892][654]LogBlueprintUserMessages: [BP_terrain_C_97] Hello
+[2020.02.21-09.39.45:892][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:892][654]LogBlueprintUserMessages: [BP_terrain_C_100] Hello
+[2020.02.21-09.39.45:892][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:892][654]LogBlueprintUserMessages: [BP_terrain_C_115] Hello
+[2020.02.21-09.39.45:892][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:892][654]LogBlueprintUserMessages: [BP_terrain_C_151] Hello
+[2020.02.21-09.39.45:892][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:892][654]LogBlueprintUserMessages: [BP_terrain_C_165] Hello
+[2020.02.21-09.39.45:892][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:892][654]LogBlueprintUserMessages: [BP_terrain_C_168] Hello
+[2020.02.21-09.39.45:892][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:893][654]LogBlueprintUserMessages: [BP_terrain_C_173] Hello
+[2020.02.21-09.39.45:893][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:893][654]LogBlueprintUserMessages: [BP_terrain_C_183] Hello
+[2020.02.21-09.39.45:893][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:893][654]LogBlueprintUserMessages: [BP_terrain_C_209] Hello
+[2020.02.21-09.39.45:893][654]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2020.02.21-09.39.45:893][654]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.21-09.39.45:895][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.21-09.39.45:907][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.21-09.39.45:912][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.21-09.39.45:959][654]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.21-09.39.45:964][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.21-09.39.45:973][654]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.02.21-09.39.46:000][655]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.02.21-09.40.07:234][108]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.02.21-09.40.09:640][108]LogSlate: Window 'Save Content' being destroyed
+[2020.02.21-09.40.09:682][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Fish" FILE="../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Fish.uasset" SILENT=true
+[2020.02.21-09.40.09:750][108]LogSavePackage: Moving '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Saved/Fish2652A7604178E1AB1013FBAE0165F5A7.tmp' to '../../../../../../Users/AndrejxD/Documents/fishbaloon/FishBaloon/Content/Mesh/Fish.uasset'
+[2020.02.21-09.40.09:767][108]AssetCheck: New page: Asset Save: Fish
+[2020.02.21-09.40.09:767][108]LogContentValidation: Display: Validating StaticMesh /Game/Mesh/Fish.Fish
