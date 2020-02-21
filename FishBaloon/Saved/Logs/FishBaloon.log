@@ -872,3 +872,82 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.21-13.34.44:006][130]AssetCheck: New page: Asset Save: Baselevel
 [2020.02.21-13.34.44:006][130]LogContentValidation: Display: Validating World /Game/Level/Baselevel.Baselevel
 [2020.02.21-13.34.44:684][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.02.21-13.35.29:341][855]LogAIModule: Creating AISystem for world blank
+[2020.02.21-13.35.29:342][855]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/blank.blank
+[2020.02.21-13.35.29:387][855]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.02.21-13.35.29:389][855]Cmd: MAP LOAD FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Level/blank.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-13.35.29:389][855]LightingResults: New page: Lighting Build
+[2020.02.21-13.35.29:390][855]LoadErrors: New page: Loading map: blank.umap
+[2020.02.21-13.35.29:391][855]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.21-13.35.29:391][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.21-13.35.29:391][855]MapCheck: New page: Map Check
+[2020.02.21-13.35.29:391][855]LightingResults: New page: Lighting Build
+[2020.02.21-13.35.29:434][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.02.21-13.35.29:614][855]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-13.35.29:659][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.02.21-13.35.29:691][855]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-13.35.29:691][855]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2020.02.21-13.35.29:691][855]LogFileHelpers: Loading map 'blank' took 0.304
+[2020.02.21-13.35.31:330][951]LogTemp: Repeating last play command: Standalone Game
+[2020.02.21-13.35.31:386][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.02.21-13.36.03:165][270]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.21-13.36.03:200][270]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Baselevel.Baselevel
+[2020.02.21-13.36.03:238][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.02.21-13.36.03:241][270]Cmd: MAP LOAD FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Level/Baselevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-13.36.03:241][270]LightingResults: New page: Lighting Build
+[2020.02.21-13.36.03:242][270]LoadErrors: New page: Loading map: Baselevel.umap
+[2020.02.21-13.36.03:242][270]LogWorld: UWorld::CleanupWorld for blank, bSessionEnded=true, bCleanupResources=true
+[2020.02.21-13.36.03:242][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.21-13.36.03:242][270]MapCheck: New page: Map Check
+[2020.02.21-13.36.03:242][270]LightingResults: New page: Lighting Build
+[2020.02.21-13.36.03:286][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.02.21-13.36.03:620][270]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-13.36.03:668][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.02.21-13.36.03:699][270]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-13.36.03:699][270]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,125ms to complete.
+[2020.02.21-13.36.03:699][270]LogFileHelpers: Loading map 'Baselevel' took 0.459
+[2020.02.21-13.36.09:163][593]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2020.02.21-13.36.18:724][162]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.02.21-13.36.21:317][314]LogAIModule: Creating AISystem for world blank
+[2020.02.21-13.36.21:318][314]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/blank.blank
+[2020.02.21-13.36.21:358][314]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.02.21-13.36.22:884][314]LogSlate: Window 'Save Content' being destroyed
+[2020.02.21-13.36.22:906][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Baselevel" FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Level/Baselevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.21-13.36.22:949][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.02.21-13.36.23:254][314]LogSavePackage: Moving '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Saved/BaselevelCCDEDF9F45D2FF17D93C2BACFCE3B97F.tmp' to '../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Level/Baselevel.umap'
+[2020.02.21-13.36.23:291][314]LogFileHelpers: Saving map 'Baselevel' took 0.385
+[2020.02.21-13.36.23:292][314]Cmd: MAP LOAD FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Level/blank.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-13.36.23:292][314]LightingResults: New page: Lighting Build
+[2020.02.21-13.36.23:292][314]LoadErrors: New page: Loading map: blank.umap
+[2020.02.21-13.36.23:293][314]LogWorld: UWorld::CleanupWorld for Baselevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.21-13.36.23:293][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.21-13.36.23:293][314]MapCheck: New page: Map Check
+[2020.02.21-13.36.23:293][314]LightingResults: New page: Lighting Build
+[2020.02.21-13.36.23:339][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.02.21-13.36.23:574][314]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-13.36.23:619][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.02.21-13.36.23:650][314]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-13.36.23:650][314]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,113ms to complete.
+[2020.02.21-13.36.23:650][314]LogFileHelpers: Loading map 'blank' took 0.360
+[2020.02.21-13.36.23:701][314]AssetCheck: New page: Asset Save: Baselevel
+[2020.02.21-13.36.23:701][314]LogContentValidation: Display: Validating World /Game/Level/Baselevel.Baselevel
+[2020.02.21-13.36.23:719][314]LogAIModule: Creating AISystem for world Baselevel
+[2020.02.21-13.36.24:722][372]LogTemp: Repeating last play command: Standalone Game
+[2020.02.21-13.36.24:780][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.02.21-13.39.25:421][ 46]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Baselevel.Baselevel
+[2020.02.21-13.39.25:466][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.21-13.39.25:468][ 46]Cmd: MAP LOAD FILE="../../../../../../polanc/UnrealEngine/Fishbaloon/FishBaloon/Content/Level/Baselevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-13.39.25:468][ 46]LightingResults: New page: Lighting Build
+[2020.02.21-13.39.25:469][ 46]LoadErrors: New page: Loading map: Baselevel.umap
+[2020.02.21-13.39.25:469][ 46]LogWorld: UWorld::CleanupWorld for blank, bSessionEnded=true, bCleanupResources=true
+[2020.02.21-13.39.25:469][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.21-13.39.25:469][ 46]MapCheck: New page: Map Check
+[2020.02.21-13.39.25:469][ 46]LightingResults: New page: Lighting Build
+[2020.02.21-13.39.25:514][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.02.21-13.39.25:917][ 46]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-13.39.25:957][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.02.21-13.39.25:988][ 46]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-13.39.25:988][ 46]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,124ms to complete.
+[2020.02.21-13.39.25:988][ 46]LogFileHelpers: Loading map 'Baselevel' took 0.521
+[2020.02.21-13.39.26:838][ 92]LogTemp: Repeating last play command: Standalone Game
+[2020.02.21-13.39.26:894][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
